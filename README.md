@@ -1,10 +1,10 @@
 # Predicting Taxi Demand at Airports in NYC
 
-Will Geary, Keerti Agrawal, Adam Coviensky, Anuj Katiyal
+*Will Geary, Keerti Agrawal, Adam Coviensky, Anuj Katiyal*
 
-Columbia University Data Science Internship
+*Columbia University Data Science Internship*
 
-Capstone Project Fall 2017
+*Capstone Project Fall 2017*
 
 
 ### Motivation and Background
