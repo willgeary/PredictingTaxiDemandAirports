@@ -40,7 +40,6 @@ and LaGuardia and for drivers in the taxi hold lots. By accurately estimating ta
 Authority can better coordinate a constant throughput of taxis, thereby encouraging drivers to choose
 to drive to the airport.
 
-
 ### Suggested Output
 
 Suggested output is a predictive model of average taxi demand and optimal throughput at LaGuardia
@@ -48,3 +47,16 @@ and John F. Kennedy airports throughout the week, with special attention paid to
 such as holidays. Estimates should be no less frequent than hourly. The model should be adjustable by
 the TLC and the Port Authority to create new estimates based on changes in flight patterns, holidays,
 etc.
+
+### Product Follow-Ons (e.g., apps)
+
+An extremely valuable tool for both the Port Authority and taxi drivers would be an app with the following features:
+
+1. Allows drivers to check the taxi supply at the airport
+2. Allows drivers to check arrivals at the airport
+3. Estimates and tells drivers how many more taxis are needed at any given time
+4. Allows drivers to check in or mark that they will be at the airport at a given time
+5. Allows the Port Authority to request more taxis at the airport
+
+### Mentor Information
+Mentor: Jeff Garber, Director of Technology and Innovation, New York City Taxi and Limousine Commission
