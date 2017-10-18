@@ -2,7 +2,7 @@
 
 *Will Geary, Keerti Agrawal, Adam Coviensky, Anuj Katiyal*
 
-*Columbia University Data Science Internship*
+*Columbia University Data Science Institute*
 
 *Capstone Project Fall 2017*
 
