@@ -140,7 +140,8 @@ String attrib;
 Float attribWidth;
 
 void setup() {
-  size(1400, 1000, P3D);
+  //size(1400, 1000, P3D);
+  fullScreen(P3D);
   provider1 = new StamenMapProvider.TonerLite();
   provider2 = new StamenMapProvider.TonerBackground();
   provider3 = new CartoDB.Positron();
