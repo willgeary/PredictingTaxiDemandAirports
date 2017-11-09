@@ -1,0 +1,1129 @@
+,Year - Month,Carrier,Destination,Departures,Miles,Seats,Passengers,Seat Utilization,Payload (lbs),Freight (lbs),Mail (lbs)
+1,2014-01,Air Canada (International),"New York, NY (LGA)",233,"82,835","23,060","14,001",61%,"6,058,613","6,439",0
+2,2014-01,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",188,"122,303","22,016","17,643",80%,"4,709,500","19,777",0
+3,2014-01,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",273,"59,158","13,650","9,435",69%,"6,425,006","3,489",100
+4,2014-01,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,169","1,252,618","174,068","134,035",77%,"46,521,200","75,781",0
+5,2014-01,Atlas Air Inc. (Domestic),"New York, NY (LGA)",1,"1,381",102,57,56%,"95,240","23,455",0
+6,2014-01,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",361,"163,798","18,050","10,318",57%,"4,146,446",0,0
+7,2014-01,Compass Airlines (Domestic),"New York, NY (LGA)",297,"338,927","22,126","12,542",57%,"5,833,850",224,0
+8,2014-01,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,713","1,573,584","244,842","192,873",79%,"60,475,383","214,665",0
+9,2014-01,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",63,"62,163","8,039","5,403",67%,"2,187,778",0,0
+10,2014-01,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",362,"225,731","25,242","14,551",58%,"7,000,550",5,0
+11,2014-01,Envoy Air (Domestic),"New York, NY (LGA)","1,498","865,496","87,324","46,804",54%,"22,281,100","1,431",0
+12,2014-01,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",816,"364,423","50,298","29,509",59%,"12,547,080",221,0
+13,2014-01,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",32,"51,840","5,544","5,041",91%,"1,320,000",0,0
+14,2014-01,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,020","532,001","67,320","41,562",62%,"17,962,200",0,0
+15,2014-01,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,202,9,2,22%,"3,274",0,0
+16,2014-01,Jazz Aviation LP (International),"New York, NY (LGA)",78,"25,776","4,075","2,465",60%,"1,196,600",0,0
+17,2014-01,JetBlue Airways (Domestic),"New York, NY (LGA)",461,"472,145","69,150","54,042",78%,"17,241,400","20,447",0
+18,2014-01,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",44,"16,146","3,305","2,386",72%,"856,800",5,0
+19,2014-01,Piedmont Airlines (Domestic),"New York, NY (LGA)",86,"8,256","3,221","2,470",77%,"752,450",359,0
+20,2014-01,Republic Airlines (Domestic),"New York, NY (LGA)",126,"31,990","9,838","5,814",59%,"2,687,536",0,0
+21,2014-01,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,615","864,179","117,031","65,399",56%,"32,942,738",0,0
+22,2014-01,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",509,"473,219","73,723","53,034",72%,"17,853,800","146,136",0
+23,2014-01,Spirit Air Lines (Domestic),"New York, NY (LGA)",320,"269,365","57,055","48,980",86%,"11,411,000",0,0
+24,2014-01,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,500,7,5,71%,"5,300",0,0
+25,2014-01,United Air Lines Inc. (Domestic),"New York, NY (LGA)",539,"657,005","79,880","58,749",74%,"19,993,431","20,769","1,269"
+26,2014-01,US Airways Inc. (Domestic),"New York, NY (LGA)",965,"288,540","123,052","73,669",60%,"33,942,100","15,636",0
+27,2014-01,Westjet (International),"New York, NY (LGA)",177,"63,189","22,550","10,242",45%,"5,481,309",0,0
+1,2014-02,Air Canada (International),"New York, NY (LGA)",213,"75,943","21,093","12,737",60%,"5,625,013","1,411",0
+2,2014-02,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",162,"105,623","19,014","14,737",78%,"4,078,500","16,667",0
+3,2014-02,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",263,"57,212","13,150","8,032",61%,"6,208,370","3,682",0
+4,2014-02,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,041","1,101,349","155,470","122,781",79%,"41,493,800","163,674",0
+5,2014-02,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",317,"139,433","15,850","10,601",67%,"3,641,062",0,0
+6,2014-02,Compass Airlines (Domestic),"New York, NY (LGA)",188,"221,645","14,042","7,626",54%,"3,700,090",222,0
+7,2014-02,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,618","1,472,161","234,820","178,038",76%,"56,960,507","262,175",3
+8,2014-02,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",55,"55,848","7,065","4,780",68%,"1,920,834",237,0
+9,2014-02,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",390,"238,101","27,909","17,197",62%,"7,791,648",42,0
+10,2014-02,Envoy Air (Domestic),"New York, NY (LGA)","1,348","775,126","79,357","45,706",58%,"20,331,450","1,975",0
+11,2014-02,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",775,"362,496","47,887","29,813",62%,"12,145,860",180,0
+12,2014-02,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",30,"48,600","5,040","4,543",90%,"1,200,000",0,0
+13,2014-02,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",868,"435,626","60,760","35,552",59%,"15,285,480",0,0
+14,2014-02,Jazz Aviation LP (International),"New York, NY (LGA)",76,"25,242","4,100","2,670",65%,"1,185,598",0,0
+15,2014-02,JetBlue Airways (Domestic),"New York, NY (LGA)",437,"448,316","65,550","51,963",79%,"16,343,800","19,250",0
+16,2014-02,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",28,"10,920","2,140","1,517",71%,"552,240",76,0
+17,2014-02,Piedmont Airlines (Domestic),"New York, NY (LGA)",57,"5,472","2,187","1,479",68%,"510,150",74,8
+18,2014-02,Republic Airlines (Domestic),"New York, NY (LGA)",112,"27,390","8,751","4,368",50%,"2,390,427",0,0
+19,2014-02,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,469","797,442","106,371","61,215",58%,"29,930,293",0,0
+20,2014-02,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",436,"400,078","63,098","42,350",67%,"15,236,800","126,574",0
+21,2014-02,Spirit Air Lines (Domestic),"New York, NY (LGA)",283,"236,364","52,421","43,453",83%,"10,484,200",0,0
+22,2014-02,United Air Lines Inc. (Domestic),"New York, NY (LGA)",493,"595,808","74,204","54,903",74%,"18,806,997","13,731",0
+23,2014-02,United Air Lines Inc. (Latin America),"New York, NY (LGA)",2,"3,922",308,264,86%,"81,144",0,0
+24,2014-02,US Airways Inc. (Domestic),"New York, NY (LGA)",853,"246,169","107,439","57,005",53%,"29,664,700","10,200",0
+25,2014-02,Westjet (International),"New York, NY (LGA)",157,"56,049","19,877","10,721",54%,"4,829,288",0,0
+1,2014-03,Air Canada (International),"New York, NY (LGA)",252,"89,758","24,697","15,878",64%,"6,474,061","5,509",0
+2,2014-03,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",210,"138,120","24,590","20,795",85%,"5,259,500","22,526",0
+3,2014-03,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",343,"73,135","17,150","12,025",70%,"8,133,444","4,903",0
+4,2014-03,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,230","1,310,343","184,382","152,237",83%,"49,275,400","489,355",0
+5,2014-03,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",470,"185,375","23,500","18,111",77%,"5,398,420",0,0
+6,2014-03,Compass Airlines (Domestic),"New York, NY (LGA)",315,"330,278","23,520","14,047",60%,"6,195,296",291,0
+7,2014-03,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,169","2,001,934","323,993","262,754",81%,"77,464,753","260,821",25
+8,2014-03,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",67,"67,961","8,612","6,045",70%,"2,339,310",0,0
+9,2014-03,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",618,"357,355","44,690","29,090",65%,"12,505,062",171,0
+10,2014-03,Envoy Air (Domestic),"New York, NY (LGA)","1,646","958,252","96,526","59,040",61%,"24,742,920","1,698",0
+11,2014-03,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,074","549,810","66,700","45,275",68%,"16,814,380",148,0
+12,2014-03,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",31,"50,220","5,208","5,052",97%,"1,240,000",0,0
+13,2014-03,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,212","594,314","84,840","55,817",66%,"21,343,320",0,0
+14,2014-03,Jazz Aviation LP (International),"New York, NY (LGA)",93,"30,891","4,974","3,266",66%,"1,444,296",0,0
+15,2014-03,JetBlue Airways (Domestic),"New York, NY (LGA)",521,"535,728","78,150","66,295",85%,"19,485,400","21,928",0
+16,2014-03,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",44,"15,081","3,287","2,859",87%,"853,376",62,0
+17,2014-03,Piedmont Airlines (Domestic),"New York, NY (LGA)",56,"5,376","2,150","1,667",78%,"501,500",129,0
+18,2014-03,Republic Airlines (Domestic),"New York, NY (LGA)",137,"34,629","10,685","5,990",56%,"2,919,236",0,0
+19,2014-03,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,756","954,032","127,402","74,041",58%,"35,867,856",0,0
+20,2014-03,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",293,"98,133","21,387","14,517",68%,"5,623,039","3,993",0
+21,2014-03,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",10,"4,190",660,585,89%,"178,400",0,0
+22,2014-03,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",564,"523,830","81,774","62,775",77%,"19,749,600","139,125",0
+23,2014-03,Spirit Air Lines (Domestic),"New York, NY (LGA)",340,"285,905","62,967","55,420",88%,"12,593,400",0,0
+24,2014-03,"Swift Air, LLC (Domestic)","New York, NY (LGA)",1,"1,020",150,64,43%,"34,700",0,0
+25,2014-03,United Air Lines Inc. (Domestic),"New York, NY (LGA)",608,"740,044","88,342","76,218",86%,"22,035,151","18,543",0
+26,2014-03,United Air Lines Inc. (Latin America),"New York, NY (LGA)",1,"1,961",154,122,79%,"41,778",0,0
+27,2014-03,US Airways Inc. (Domestic),"New York, NY (LGA)","1,059","306,368","133,541","71,618",54%,"36,820,800","14,457",2
+28,2014-03,Westjet (International),"New York, NY (LGA)",191,"68,187","24,055","13,640",57%,"5,841,159",0,0
+2,2014-04,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",202,"131,941","23,634","21,537",91%,"5,050,000","18,551",
+3,2014-04,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",352,"75,803","17,600","13,153",75%,"8,349,874","6,355",
+4,2014-04,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,269","1,321,540","190,324","159,580",84%,"50,825,200","305,210",
+5,2014-04,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",388,"154,193","19,394","13,327",69%,"4,456,833",0,
+6,2014-04,Compass Airlines (Domestic),"New York, NY (LGA)",259,"276,195","19,036","12,775",67%,"5,043,202",7,
+7,2014-04,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,065","1,890,682","305,787","250,767",82%,"74,369,751","212,641",
+8,2014-04,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",64,"64,124","8,300","6,079",73%,"2,222,768",0,
+9,2014-04,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",618,"467,383","44,350","31,255",70%,"12,388,036",98,
+10,2014-04,Envoy Air (Domestic),"New York, NY (LGA)","1,724","896,728","95,758","58,740",61%,"24,038,060","2,261",
+11,2014-04,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,313","630,139","80,333","56,480",70%,"19,709,480",136,
+12,2014-04,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",33,"53,460","5,940","5,250",88%,"4,125,000",0,
+13,2014-04,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,202","575,776","84,140","55,852",66%,"21,167,220",0,
+14,2014-04,Jazz Aviation LP (International),"New York, NY (LGA)",81,"26,637","4,075","2,716",67%,"1,218,800",0,
+15,2014-04,JetBlue Airways (Domestic),"New York, NY (LGA)",504,"519,162","75,550","63,280",84%,"18,838,400","19,215",
+16,2014-04,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",30,"13,898","2,352","2,094",89%,"602,936",24,
+17,2014-04,Piedmont Airlines (Domestic),"New York, NY (LGA)",55,"5,280","2,139","1,522",71%,"498,550",86,
+18,2014-04,Republic Airlines (Domestic),"New York, NY (LGA)",123,"33,524","9,697","6,474",67%,"2,646,526",0,
+19,2014-04,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,825","943,318","132,387","82,215",62%,"37,271,956",0,
+20,2014-04,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",559,"518,150","80,955","66,382",82%,"19,599,000","162,631",
+21,2014-04,Spirit Air Lines (Domestic),"New York, NY (LGA)",328,"276,226","60,664","52,282",86%,"12,132,800",0,
+22,2014-04,United Air Lines Inc. (Domestic),"New York, NY (LGA)",598,"718,961","88,670","76,076",86%,"22,609,251","28,196",
+23,2014-04,US Airways Inc. (Domestic),"New York, NY (LGA)","1,095","312,208","138,377","87,959",64%,"38,208,000","16,853",
+24,2014-04,Westjet (International),"New York, NY (LGA)",191,"68,187","23,753","13,853",58%,"5,768,081",0,
+1,2014-05,Air Canada (International),"New York, NY (LGA)",347,"123,813","35,054","26,986",77%,"9,484,042","3,195",0
+2,2014-05,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",205,"135,193","23,985","21,942",91%,"5,125,000","26,312",0
+3,2014-05,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",324,"60,057","16,200","12,872",79%,"7,676,360","1,395",0
+4,2014-05,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,202","1,254,109","180,666","159,473",88%,"48,265,600","71,709",0
+5,2014-05,Ameristar Air Cargo (Domestic),"New York, NY (LGA)",1,651,147,61,41%,"35,124",0,0
+6,2014-05,Chartright Air Inc. (International),"New York, NY (LGA)",1,357,9,4,44%,"2,266",0,0
+7,2014-05,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",387,"156,078","19,350","14,300",74%,"4,445,082",0,0
+8,2014-05,Compass Airlines (Domestic),"New York, NY (LGA)",369,"364,981","27,237","18,990",70%,"7,207,342",322,0
+9,2014-05,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,985","1,799,937","292,485","247,909",85%,"72,178,105","330,889",0
+10,2014-05,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",7,"11,681","1,052",820,78%,"271,942",0,0
+11,2014-05,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",761,"483,316","55,407","41,389",75%,"15,525,836",245,0
+12,2014-05,Envoy Air (Domestic),"New York, NY (LGA)","1,738","907,901","96,833","66,872",69%,"24,382,950","3,324",0
+13,2014-05,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,080","534,944","65,792","48,925",74%,"16,285,820",189,0
+14,2014-05,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",57,"92,340","9,576","9,220",96%,"7,125,000",0,0
+15,2014-05,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,125","539,210","78,750","55,090",70%,"19,811,250",0,0
+16,2014-05,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,184,9,1,11%,"3,274",0,0
+17,2014-05,Jazz Aviation LP (International),"New York, NY (LGA)",84,"27,768","4,423","3,276",74%,"1,293,990",64,0
+18,2014-05,JetBlue Airways (Domestic),"New York, NY (LGA)",471,"484,217","70,350","62,071",88%,"17,548,200","23,463",0
+19,2014-05,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",53,"24,241","4,133","3,741",91%,"1,060,964",85,0
+20,2014-05,Miami Air International (International),"New York, NY (LGA)",2,648,358,128,36%,"151,660",0,0
+21,2014-05,Piedmont Airlines (Domestic),"New York, NY (LGA)",42,"4,032","1,554","1,298",84%,"363,300",56,0
+22,2014-05,Republic Airlines (Domestic),"New York, NY (LGA)",120,"32,997","9,358","6,715",72%,"2,556,718",0,0
+23,2014-05,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,656","853,551","120,736","78,336",65%,"34,077,940",0,0
+24,2014-05,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",697,"642,546","100,592","87,343",87%,"24,340,100","169,012",0
+25,2014-05,Spirit Air Lines (Domestic),"New York, NY (LGA)",334,"282,883","59,662","55,606",93%,"11,932,400",0,0
+26,2014-05,United Air Lines Inc. (Domestic),"New York, NY (LGA)",684,"786,559","100,648","91,326",91%,"25,388,611","18,826",0
+27,2014-05,US Airways Inc. (Domestic),"New York, NY (LGA)","1,059","305,690","135,890","92,620",68%,"37,439,600","18,488",24
+28,2014-05,Westjet (International),"New York, NY (LGA)",198,"70,686","24,613","16,400",67%,"5,999,211",0,0
+1,2014-06,Air Canada (International),"New York, NY (LGA)",280,"99,894","28,232","23,069",82%,"7,520,602","6,151",0
+2,2014-06,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",137,"91,619","16,621","14,776",89%,"3,594,000","15,140",0
+3,2014-06,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",302,"55,999","15,100","11,844",78%,"7,195,046","2,548",0
+4,2014-06,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,171","1,216,111","175,648","153,873",88%,"46,936,500","113,295",0
+5,2014-06,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",380,"165,274","19,000","13,150",69%,"4,364,680",0,0
+6,2014-06,Compass Airlines (Domestic),"New York, NY (LGA)",216,"229,889","16,129","11,680",72%,"4,247,570",0,0
+7,2014-06,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,902","1,745,181","276,152","227,031",82%,"69,169,202","288,687",0
+8,2014-06,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"7,844",640,500,78%,"164,080",0,0
+9,2014-06,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,050","635,071","77,345","57,720",75%,"21,730,912",64,0
+10,2014-06,Envoy Air (Domestic),"New York, NY (LGA)","1,736","904,785","96,710","67,391",70%,"24,365,100","2,137",0
+11,2014-06,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,272","586,381","77,829","57,055",73%,"19,135,380",74,0
+12,2014-06,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",59,"95,580","10,620","9,569",90%,"7,375,000",0,0
+13,2014-06,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",979,"487,708","68,530","47,390",69%,"17,240,190",0,0
+14,2014-06,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,184,9,1,11%,"3,274",0,0
+15,2014-06,Jazz Aviation LP (International),"New York, NY (LGA)",74,"24,318","3,800","2,848",75%,"1,125,201",0,0
+16,2014-06,JetBlue Airways (Domestic),"New York, NY (LGA)",459,"472,281","68,750","56,175",82%,"17,144,200","20,726",0
+17,2014-06,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",53,"24,241","4,133","3,741",91%,"1,060,964",85,0
+18,2014-06,Piedmont Airlines (Domestic),"New York, NY (LGA)",52,"4,992","1,924","1,523",79%,"449,800",313,0
+19,2014-06,Republic Airlines (Domestic),"New York, NY (LGA)",107,"30,853","8,428","5,638",67%,"2,300,389",0,0
+20,2014-06,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,668","922,323","121,363","80,190",66%,"34,225,714",0,0
+21,2014-06,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",8,"5,864",608,581,96%,"121,600",0,0
+22,2014-06,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",800,"719,618","115,290","100,671",87%,"27,895,200","190,155",0
+23,2014-06,Spirit Air Lines (Domestic),"New York, NY (LGA)",320,"271,113","56,864","51,632",91%,"11,372,800",0,0
+24,2014-06,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,123,8,1,13%,"3,450",0,0
+25,2014-06,United Air Lines Inc. (Domestic),"New York, NY (LGA)",652,"766,184","92,575","85,278",92%,"22,755,304","23,065",0
+26,2014-06,US Airways Inc. (Domestic),"New York, NY (LGA)","1,075","304,199","129,221","86,859",67%,"34,551,200","18,634",14
+27,2014-06,Westjet (International),"New York, NY (LGA)",184,"65,688","23,235","16,101",69%,"5,675,027",0,0
+1,2014-07,Air Canada (International),"New York, NY (LGA)",321,"114,564","31,962","25,477",80%,"8,437,684","2,994",0
+2,2014-07,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",123,"82,776","14,528","13,158",91%,"3,319,000","10,578",0
+3,2014-07,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",281,"55,178","14,050","9,770",70%,"6,593,602","2,153",0
+4,2014-07,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,202","1,246,940","180,291","153,503",85%,"48,150,300","175,956",0
+5,2014-07,Atlas Air Inc. (Domestic),"New York, NY (LGA)",1,185,102,5,5%,"213,390","5,756",0
+6,2014-07,Atlas Air Inc. (International),"New York, NY (LGA)",1,324,102,0,0%,"213,390","6,296",0
+7,2014-07,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",379,"164,998","18,950","12,394",65%,"4,353,194",0,0
+8,2014-07,Compass Airlines (Domestic),"New York, NY (LGA)",177,"204,541","13,150","9,771",74%,"3,469,684",0,0
+9,2014-07,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,932","1,771,714","280,000","234,727",84%,"69,738,073","158,542",0
+10,2014-07,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"7,844",640,555,87%,"163,180",0,0
+11,2014-07,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,038","610,122","76,110","56,115",74%,"21,364,864",108,0
+12,2014-07,Envoy Air (Domestic),"New York, NY (LGA)","1,718","889,916","95,503","59,181",62%,"24,046,950","5,921",366
+13,2014-07,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,256","591,186","76,867","55,863",73%,"19,003,240",35,0
+14,2014-07,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",62,"100,440","11,160","9,710",87%,"7,750,000",0,0
+15,2014-07,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",994,"492,131","69,580","47,607",68%,"17,504,340",0,0
+16,2014-07,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,202,9,3,33%,"3,274",0,0
+17,2014-07,Jazz Aviation LP (International),"New York, NY (LGA)",81,"26,847","4,350","3,318",76%,"1,260,600",0,0
+18,2014-07,JetBlue Airways (Domestic),"New York, NY (LGA)",472,"484,642","70,800","59,925",85%,"17,652,800","24,848",0
+19,2014-07,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",25,"11,808","1,975","1,779",90%,"505,300",30,0
+20,2014-07,Piedmont Airlines (Domestic),"New York, NY (LGA)",81,"7,776","2,997","2,334",78%,"700,650",424,0
+21,2014-07,Republic Airlines (Domestic),"New York, NY (LGA)",105,"29,526","8,279","5,267",64%,"2,259,494",0,0
+22,2014-07,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,641","899,982","119,494","69,583",58%,"33,715,652",0,0
+23,2014-07,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",42,"30,786","3,192","2,898",91%,"638,400",0,0
+24,2014-07,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",844,"748,272","121,678","103,900",85%,"29,456,000","148,540",0
+25,2014-07,Spirit Air Lines (Domestic),"New York, NY (LGA)",333,"280,781","59,265","54,225",91%,"11,853,000",0,0
+26,2014-07,"Swift Air, LLC (Domestic)","New York, NY (LGA)",1,"1,107",179,64,36%,"35,138",0,0
+27,2014-07,United Air Lines Inc. (Domestic),"New York, NY (LGA)",647,"761,894","92,674","84,078",91%,"22,619,148","25,239",3
+28,2014-07,US Airways Inc. (Domestic),"New York, NY (LGA)","1,088","309,356","130,116","82,584",63%,"34,640,100","18,158",16
+29,2014-07,Westjet (International),"New York, NY (LGA)",184,"65,688","23,714","16,418",69%,"5,804,363",0,0
+1,2014-08,Air Canada (International),"New York, NY (LGA)",288,"102,816","28,976","25,765",89%,"7,676,990","2,607",0
+2,2014-08,AirTran Airways Corporation (Domestic),"New York, NY (LGA)",36,"24,147","4,453","3,707",83%,"969,000","1,249",0
+3,2014-08,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",313,"58,768","15,650","11,579",74%,"7,315,408","1,983","1,000"
+4,2014-08,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,197","1,242,685","179,530","156,242",87%,"47,944,600","87,104",0
+5,2014-08,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",423,"184,183","21,150","14,110",67%,"4,858,578",0,0
+6,2014-08,Compass Airlines (Domestic),"New York, NY (LGA)",186,"217,191","13,850","9,097",66%,"3,652,156",0,0
+7,2014-08,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,940","1,779,891","281,249","244,589",87%,"70,186,631","184,357",0
+8,2014-08,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",5,"9,805",800,774,97%,"203,450",0,0
+9,2014-08,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,145","678,733","84,149","62,958",75%,"23,629,570",285,0
+10,2014-08,Envoy Air (Domestic),"New York, NY (LGA)","1,811","936,192","100,941","66,464",66%,"25,401,480","2,933",0
+11,2014-08,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,323","624,084","81,006","59,524",73%,"19,788,360",193,0
+12,2014-08,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",60,"97,200","10,080","9,431",94%,"7,500,000",0,0
+13,2014-08,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,049","509,938","73,430","50,185",68%,"18,472,890",0,0
+14,2014-08,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,378,9,1,11%,"3,274",0,0
+15,2014-08,Jazz Aviation LP (International),"New York, NY (LGA)",89,"29,493","4,800","3,940",82%,"1,388,200",0,0
+16,2014-08,JetBlue Airways (Domestic),"New York, NY (LGA)",490,"502,861","73,500","65,577",89%,"18,326,000","28,694",0
+17,2014-08,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",24,"12,808","1,896","1,794",95%,"485,088",100,0
+18,2014-08,Piedmont Airlines (Domestic),"New York, NY (LGA)",72,"6,912","2,664","2,167",81%,"622,800",267,0
+19,2014-08,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",5,480,380,289,76%,"112,500",14,0
+20,2014-08,Republic Airlines (Domestic),"New York, NY (LGA)",115,"32,552","9,112","6,108",67%,"2,485,657",0,0
+21,2014-08,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,688","918,566","122,911","65,363",53%,"34,688,884",0,0
+22,2014-08,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",56,"39,867","4,256","3,883",91%,"851,200",0,0
+23,2014-08,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",905,"786,971","130,439","113,687",87%,"31,551,400","168,718",0
+24,2014-08,Spirit Air Lines (Domestic),"New York, NY (LGA)",337,"283,937","60,137","56,561",94%,"12,027,400",337,0
+25,2014-08,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,86,9,1,11%,"6,000",0,0
+26,2014-08,United Air Lines Inc. (Domestic),"New York, NY (LGA)",670,"779,699","96,930","88,685",91%,"23,974,006","38,305",0
+27,2014-08,US Airways Inc. (Domestic),"New York, NY (LGA)","1,111","325,392","132,869","88,722",67%,"35,376,200","17,785",0
+28,2014-08,Westjet (International),"New York, NY (LGA)",201,"71,757","24,539","19,043",78%,"5,958,185",0,0
+1,2014-09,Air Canada (International),"New York, NY (LGA)",354,"126,378","34,531","27,690",80%,"8,785,759","2,631",0
+2,2014-09,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",470,"128,596","23,500","14,232",61%,"11,117,312","1,025",0
+3,2014-09,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,124","1,176,821","168,550","133,965",79%,"45,033,300","180,106",15
+4,2014-09,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",227,"106,634","11,350","7,570",67%,"2,607,322",0,0
+5,2014-09,Compass Airlines (Domestic),"New York, NY (LGA)",143,"171,048","10,728","6,632",62%,"2,821,544",0,0
+6,2014-09,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,633","1,470,174","227,256","183,861",81%,"58,682,316","285,458",0
+7,2014-09,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,040","673,459","76,873","52,199",68%,"21,614,914",49,0
+8,2014-09,Envoy Air (Domestic),"New York, NY (LGA)","1,580","833,792","89,971","57,662",64%,"22,858,230","1,383",0
+9,2014-09,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,297","631,805","79,788","52,966",66%,"19,793,360",4,0
+10,2014-09,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",56,"90,720","9,378","8,832",94%,"6,915,000",0,0
+11,2014-09,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,006","464,821","70,420","45,285",64%,"17,715,660",0,0
+12,2014-09,Island Airlines LLC (Domestic),"New York, NY (LGA)",2,377,18,7,39%,"4,566",0,0
+13,2014-09,Jazz Aviation LP (International),"New York, NY (LGA)",80,"26,280","4,100","3,068",75%,"1,215,200",0,0
+14,2014-09,JetBlue Airways (Domestic),"New York, NY (LGA)",472,"486,590","70,800","52,417",74%,"17,652,800","30,654",0
+15,2014-09,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",47,"18,953","3,524","3,347",95%,"914,012",0,0
+16,2014-09,Piedmont Airlines (Domestic),"New York, NY (LGA)",118,"11,328","4,366","3,291",75%,"1,020,700",428,0
+17,2014-09,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",4,384,304,241,79%,"90,000",0,0
+18,2014-09,Republic Airlines (Domestic),"New York, NY (LGA)",161,"77,564","12,566","8,147",65%,"3,483,173",0,0
+19,2014-09,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,623","865,422","118,089","68,084",58%,"33,325,909",0,0
+20,2014-09,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",51,"37,383","3,876","3,609",93%,"775,200",0,0
+21,2014-09,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",891,"769,537","128,373","100,378",78%,"31,071,000","180,093",0
+22,2014-09,Spirit Air Lines (Domestic),"New York, NY (LGA)",326,"275,273","59,336","54,451",92%,"11,867,200",0,0
+23,2014-09,Tradewind Aviation (Domestic),"New York, NY (LGA)",2,172,16,2,13%,"12,000",0,0
+24,2014-09,United Air Lines Inc. (Domestic),"New York, NY (LGA)",654,"758,323","95,602","82,270",86%,"24,188,598","26,367",0
+25,2014-09,US Airways Inc. (Domestic),"New York, NY (LGA)","1,144","341,052","135,142","90,980",67%,"36,013,600","15,800",0
+26,2014-09,Westjet (International),"New York, NY (LGA)",205,"73,185","24,990","15,766",63%,"6,063,310",0,0
+1,2014-10,Air Canada (International),"New York, NY (LGA)",350,"124,950","34,671","28,376",82%,"9,131,833","4,691",0
+2,2014-10,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",508,"138,626","25,400","17,928",71%,"12,055,822","1,057",4
+3,2014-10,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,163","1,214,415","175,240","139,170",79%,"46,630,000","285,050",30
+4,2014-10,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",342,"176,430","17,100","11,493",67%,"3,928,212",0,22
+5,2014-10,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,820","1,650,507","251,660","200,708",80%,"64,036,919","304,032",0
+6,2014-10,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,264","899,226","95,960","68,973",72%,"27,151,522",194,0
+7,2014-10,Envoy Air (Domestic),"New York, NY (LGA)","1,574","834,321","89,678","60,758",68%,"22,784,200","2,717",228
+8,2014-10,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,266","633,329","77,938","53,386",68%,"19,232,460",27,0
+9,2014-10,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",58,"86,754","9,714","8,486",87%,"7,165,000",0,0
+10,2014-10,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,168","559,091","81,760","54,555",67%,"20,568,480",0,0
+11,2014-10,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,419,9,2,22%,"3,274",0,0
+12,2014-10,Jazz Aviation LP (International),"New York, NY (LGA)",80,"26,160","4,000","2,800",70%,"1,200,001",0,0
+13,2014-10,JetBlue Airways (Domestic),"New York, NY (LGA)",507,"521,947","76,050","56,787",75%,"18,961,800","42,069",0
+14,2014-10,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",85,"27,025","6,166","5,785",94%,"1,613,588",0,0
+15,2014-10,Piedmont Airlines (Domestic),"New York, NY (LGA)",79,"7,584","2,923","2,288",78%,"683,350",193,0
+16,2014-10,Republic Airlines (Domestic),"New York, NY (LGA)",171,"85,024","13,349","9,392",70%,"3,703,914",0,0
+17,2014-10,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,707","902,208","124,164","74,867",60%,"35,043,499",0,0
+18,2014-10,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",36,"26,388","2,736","2,557",93%,"547,200",0,0
+19,2014-10,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",929,"802,095","133,833","104,233",78%,"32,392,200","208,879",0
+20,2014-10,Spirit Air Lines (Domestic),"New York, NY (LGA)",338,"285,417","62,992","55,878",89%,"12,503,600",0,0
+21,2014-10,United Air Lines Inc. (Domestic),"New York, NY (LGA)",711,"808,243","102,674","84,623",82%,"24,845,890","20,148",542
+22,2014-10,US Airways Inc. (Domestic),"New York, NY (LGA)","1,193","355,014","140,974","99,235",70%,"37,567,800","20,618",52
+23,2014-10,Virgin America (Domestic),"New York, NY (LGA)",16,"22,096","2,012","1,224",61%,"602,620",0,0
+24,2014-10,Westjet (International),"New York, NY (LGA)",208,"74,256","25,508","17,829",70%,"6,193,999",0,0
+1,2014-11,Air Canada (International),"New York, NY (LGA)",259,"92,364","26,289","20,548",78%,"6,895,461","6,156",0
+2,2014-11,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",451,"123,274","22,550","14,604",65%,"10,636,440","1,605",0
+3,2014-11,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,158","1,205,168","179,972","135,108",75%,"46,696,000","172,265",0
+4,2014-11,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",306,"155,029","15,300","9,850",64%,"3,514,716",0,0
+5,2014-11,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,153","1,735,045","294,364","221,867",75%,"75,696,071","315,624",0
+6,2014-11,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,039","650,572","78,948","54,050",68%,"22,340,578",353,0
+7,2014-11,Envoy Air (Domestic),"New York, NY (LGA)","1,368","732,395","77,917","49,435",63%,"19,772,970","1,732",3
+8,2014-11,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,021","494,549","62,536","40,949",65%,"15,667,520","4,438",0
+9,2014-11,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",55,"59,075","9,240","8,243",89%,"6,875,000",0,0
+10,2014-11,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",970,"496,976","67,900","41,050",60%,"17,081,700",0,0
+11,2014-11,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,175,9,7,78%,"2,283",0,0
+12,2014-11,Jazz Aviation LP (International),"New York, NY (LGA)",66,"21,582","3,325","2,089",63%,"993,799",0,0
+13,2014-11,JetBlue Airways (Domestic),"New York, NY (LGA)",555,"568,903","83,200","65,189",78%,"20,745,800","18,871",0
+14,2014-11,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",62,"18,608","4,466","4,134",93%,"1,170,968",0,0
+15,2014-11,Miami Air International (Domestic),"New York, NY (LGA)",2,520,136,53,39%,"59,400",0,0
+16,2014-11,Piedmont Airlines (Domestic),"New York, NY (LGA)",47,"4,512","1,739","1,291",74%,"406,550",4,0
+17,2014-11,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",4,"2,176",268,241,90%,"70,400",0,0
+18,2014-11,Republic Airlines (Domestic),"New York, NY (LGA)",156,"73,514","12,148","8,176",67%,"3,368,736",0,0
+19,2014-11,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,350","919,607","98,093","55,683",57%,"27,677,322",0,0
+20,2014-11,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",244,"81,168","17,797","12,988",73%,"4,729,376","6,822",0
+21,2014-11,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",884,"803,690","130,458","96,985",74%,"31,663,200","231,486",0
+22,2014-11,Spirit Air Lines (Domestic),"New York, NY (LGA)",323,"272,533","56,822","50,317",89%,"11,370,200",0,0
+23,2014-11,United Air Lines Inc. (Domestic),"New York, NY (LGA)",705,"781,858","99,814","79,278",79%,"21,942,339","24,602",0
+24,2014-11,US Airways Inc. (Domestic),"New York, NY (LGA)",976,"286,544","116,536","80,771",69%,"31,011,900","17,850",1
+25,2014-11,Virgin America (Domestic),"New York, NY (LGA)",105,"145,005","13,200","8,541",65%,"3,954,852",0,0
+26,2014-11,Westjet (International),"New York, NY (LGA)",179,"63,903","22,808","14,740",65%,"5,554,188",0,0
+1,2014-12,Air Canada (International),"New York, NY (LGA)",271,"96,714","27,467","21,794",79%,"7,159,786","7,825",0
+2,2014-12,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",459,"123,571","22,950","15,664",68%,"10,900,880",206,0
+3,2014-12,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,247","1,318,481","197,668","150,106",76%,"50,398,400","258,683",0
+4,2014-12,Chartright Air Inc. (International),"New York, NY (LGA)",1,357,9,3,33%,"2,266",0,0
+5,2014-12,Chautauqua Airlines Inc. (Domestic),"New York, NY (LGA)",260,"120,460","13,000","9,110",70%,"2,986,360",0,0
+6,2014-12,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,327","1,981,956","323,411","246,452",76%,"81,273,056","327,895",0
+7,2014-12,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",2,"3,922",300,177,59%,"77,758",0,0
+8,2014-12,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",907,"577,776","67,668","46,809",69%,"19,070,218",870,36
+9,2014-12,Envoy Air (Domestic),"New York, NY (LGA)","1,399","760,657","80,324","55,758",69%,"20,354,300",815,0
+10,2014-12,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,075","528,055","65,265","44,192",68%,"15,992,360","7,111",0
+11,2014-12,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",60,"64,207","9,360","8,495",91%,"5,460,000",0,0
+12,2014-12,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,052","548,521","73,640","46,619",63%,"18,525,720",0,0
+13,2014-12,Jazz Aviation LP (International),"New York, NY (LGA)",71,"23,217","3,550","2,655",75%,"1,065,000",0,0
+14,2014-12,JetBlue Airways (Domestic),"New York, NY (LGA)",581,"596,249","87,150","65,285",75%,"21,729,400","33,608",0
+15,2014-12,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",37,"13,513","2,734","2,528",92%,"711,892",0,0
+16,2014-12,Piedmont Airlines (Domestic),"New York, NY (LGA)",49,"4,704","1,813","1,380",76%,"423,850",22,0
+17,2014-12,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",4,"2,176",268,239,89%,"70,400",0,0
+18,2014-12,Republic Airlines (Domestic),"New York, NY (LGA)",109,"33,047","8,569","6,102",71%,"2,341,284",0,0
+19,2014-12,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,416","974,598","102,911","62,544",61%,"29,045,834",0,0
+20,2014-12,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",257,"85,512","18,707","14,704",79%,"4,961,266","5,718",0
+21,2014-12,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",2,"1,466",152,132,87%,"30,400",0,0
+22,2014-12,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",939,"853,941","138,764","113,806",82%,"33,686,900","237,682",0
+23,2014-12,Spirit Air Lines (Domestic),"New York, NY (LGA)",337,"285,598","60,519","53,073",88%,"11,936,400",0,0
+24,2014-12,United Air Lines Inc. (Domestic),"New York, NY (LGA)",700,"787,417","99,932","82,225",82%,"21,861,338","24,178",0
+25,2014-12,US Airways Inc. (Domestic),"New York, NY (LGA)",895,"273,431","109,927","77,747",71%,"29,367,600","16,269",0
+26,2014-12,Virgin America (Domestic),"New York, NY (LGA)",111,"153,291","13,995","10,411",74%,"4,179,885",0,0
+27,2014-12,Westjet (International),"New York, NY (LGA)",180,"64,260","23,041","16,661",72%,"5,617,515",0,0
+1,2015-01,Air Canada (International),"New York, NY (LGA)",242,"86,054","24,162","15,675",65%,"5,746,176","4,209",0
+2,2015-01,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",442,"118,927","22,100","11,295",51%,"10,299,004",121,0
+3,2015-01,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,107","1,170,192","175,230","130,080",74%,"44,733,400","285,792",0
+4,2015-01,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,080","1,678,172","285,209","199,063",70%,"71,513,331","316,481",0
+5,2015-01,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",5,"9,805",790,683,86%,"200,959",0,0
+6,2015-01,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",879,"564,234","65,681","35,774",54%,"18,513,172",100,0
+7,2015-01,Envoy Air (Domestic),"New York, NY (LGA)","1,371","775,323","78,119","40,015",51%,"19,800,980","2,185",0
+8,2015-01,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",933,"451,786","55,991","30,405",54%,"13,750,540",0,0
+9,2015-01,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",62,"67,952","8,556","7,439",87%,"2,480,000",0,0
+10,2015-01,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,017","510,516","71,190","34,414",48%,"17,909,370",0,0
+11,2015-01,Jazz Aviation LP (International),"New York, NY (LGA)",66,"21,582","3,300","1,963",59%,"990,000",0,0
+12,2015-01,JetBlue Airways (Domestic),"New York, NY (LGA)",560,"574,556","84,000","65,625",78%,"20,944,000","32,110",0
+13,2015-01,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",4,"1,861",307,279,91%,"79,136",0,0
+14,2015-01,Miami Air International (International),"New York, NY (LGA)",1,324,173,81,47%,"42,500",0,0
+15,2015-01,Piedmont Airlines (Domestic),"New York, NY (LGA)",35,"3,360","1,281",917,72%,"302,750",40,0
+16,2015-01,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",20,"10,880","1,511","1,442",95%,"445,100",50,0
+17,2015-01,Republic Airlines (Domestic),"New York, NY (LGA)",125,"30,737","9,879","5,558",56%,"2,695,554",0,0
+18,2015-01,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,482","984,216","102,370","49,937",49%,"28,278,874",0,0
+19,2015-01,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",246,"81,981","17,940","11,113",62%,"4,599,188","5,778",0
+20,2015-01,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",5,"3,665",380,363,96%,"76,000",0,0
+21,2015-01,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",827,"784,229","122,225","81,032",66%,"29,651,800","222,827",0
+22,2015-01,Spirit Air Lines (Domestic),"New York, NY (LGA)",323,"272,850","56,910","47,811",84%,"11,382,000",0,0
+23,2015-01,"Swift Air, LLC (Domestic)","New York, NY (LGA)",2,758,136,51,38%,"69,861",0,0
+24,2015-01,United Air Lines Inc. (Domestic),"New York, NY (LGA)",666,"743,066","94,344","67,021",71%,"20,691,075","5,780",0
+25,2015-01,US Airways Inc. (Domestic),"New York, NY (LGA)",881,"266,749","106,913","58,858",55%,"28,510,100","18,385",0
+26,2015-01,Virgin America (Domestic),"New York, NY (LGA)",103,"142,243","12,935","7,815",60%,"3,879,841",0,0
+27,2015-01,Westjet (International),"New York, NY (LGA)",163,"58,191","20,607","11,704",57%,"5,014,555",0,0
+1,2015-02,Air Canada (International),"New York, NY (LGA)",245,"89,140","24,155","17,864",74%,"5,779,701","7,484",0
+2,2015-02,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",436,"114,509","21,800","12,784",59%,"10,491,822","1,091",0
+3,2015-02,American Airlines Inc. (Domestic),"New York, NY (LGA)",988,"1,038,318","156,274","119,201",76%,"39,887,100","243,448",0
+4,2015-02,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,978","1,596,347","276,748","209,203",76%,"68,100,709","273,953",0
+5,2015-02,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"7,844",610,473,78%,"156,807",0,0
+6,2015-02,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",739,"449,460","55,009","34,445",63%,"15,493,890",536,0
+7,2015-02,Envoy Air (Domestic),"New York, NY (LGA)","1,173","666,272","66,810","41,610",62%,"16,939,690","1,438",0
+8,2015-02,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",848,"402,094","51,006","32,684",64%,"12,649,120",6,0
+9,2015-02,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",55,"60,280","8,580","6,455",75%,"2,200,000",0,0
+10,2015-02,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",934,"476,267","65,380","38,932",60%,"16,447,740",0,0
+11,2015-02,Jazz Aviation LP (International),"New York, NY (LGA)",64,"20,928","3,200","2,030",63%,"960,001",0,0
+12,2015-02,JetBlue Airways (Domestic),"New York, NY (LGA)",504,"515,474","75,600","60,132",80%,"18,849,600","33,032",0
+13,2015-02,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",4,916,280,258,92%,"74,000",0,0
+14,2015-02,Piedmont Airlines (Domestic),"New York, NY (LGA)",39,"3,744","1,384","1,144",83%,"337,350",10,0
+15,2015-02,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",20,"10,880","1,520","1,382",91%,"450,000",0,0
+16,2015-02,Republic Airlines (Domestic),"New York, NY (LGA)",112,"28,794","8,696","5,259",60%,"2,376,872",0,0
+17,2015-02,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,307","843,778","90,458","50,401",56%,"25,009,319",0,0
+18,2015-02,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",222,"73,809","16,204","11,942",74%,"4,108,390","8,046",0
+19,2015-02,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",7,"5,131",532,514,97%,"106,400",0,0
+20,2015-02,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",722,"691,716","106,288","71,746",68%,"25,780,400","234,916",0
+21,2015-02,Spirit Air Lines (Domestic),"New York, NY (LGA)",288,"242,913","52,399","43,273",83%,"10,479,800",0,0
+22,2015-02,United Air Lines Inc. (Domestic),"New York, NY (LGA)",632,"706,696","88,648","68,169",77%,"19,437,954","6,684",0
+23,2015-02,US Airways Inc. (Domestic),"New York, NY (LGA)",860,"252,782","102,787","64,488",63%,"27,378,300","17,421",2
+24,2015-02,Virgin America (Domestic),"New York, NY (LGA)",86,"118,766","10,867","7,487",69%,"3,238,133",0,0
+25,2015-02,Westjet (International),"New York, NY (LGA)",158,"56,406","20,067","11,413",57%,"4,885,997",0,0
+1,2015-03,Air Canada (International),"New York, NY (LGA)",294,"104,925","29,558","22,553",76%,"7,477,840","1,078",0
+2,2015-03,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",482,"129,184","24,100","15,644",65%,"11,454,268","3,925",1
+3,2015-03,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,154","1,221,552","182,150","146,924",81%,"46,656,700","192,447",0
+4,2015-03,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,499","2,024,347","348,979","281,754",81%,"84,090,204","295,302",0
+5,2015-03,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"7,844",640,505,79%,"163,580",0,0
+6,2015-03,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",829,"489,521","61,110","41,222",67%,"17,177,014",448,0
+7,2015-03,Envoy Air (Domestic),"New York, NY (LGA)","1,449","813,935","82,121","51,343",63%,"20,780,260","1,915",0
+8,2015-03,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",905,"429,862","55,708","37,391",67%,"13,786,580",0,0
+9,2015-03,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"112,264","12,480","10,771",86%,"3,770,000",0,0
+10,2015-03,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,082","586,766","75,740","49,084",65%,"19,054,020",0,0
+11,2015-03,Jazz Aviation LP (International),"New York, NY (LGA)",65,"21,255","3,250","1,937",60%,"975,000",0,0
+12,2015-03,JetBlue Airways (Domestic),"New York, NY (LGA)",565,"578,592","84,750","71,437",84%,"21,131,000","33,481",0
+13,2015-03,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",15,"3,435","1,050",978,93%,"277,500",0,0
+14,2015-03,Piedmont Airlines (Domestic),"New York, NY (LGA)",43,"4,128","1,545","1,254",81%,"371,950",21,0
+15,2015-03,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",23,"12,512","1,748","1,664",95%,"517,500",0,0
+16,2015-03,Republic Airlines (Domestic),"New York, NY (LGA)",122,"30,889","9,463","6,572",69%,"2,586,769",0,0
+17,2015-03,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,556","1,000,431","106,688","67,094",63%,"29,377,728",0,0
+18,2015-03,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",223,"73,671","16,253","11,496",71%,"4,295,555","4,398",0
+19,2015-03,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",6,"4,398",456,414,91%,"91,200",0,0
+20,2015-03,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",848,"804,504","124,612","99,679",80%,"30,173,600","230,918",0
+21,2015-03,Spirit Air Lines (Domestic),"New York, NY (LGA)",312,"264,217","57,531","50,905",88%,"11,506,200",0,0
+22,2015-03,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,175,9,4,44%,"6,000",0,0
+23,2015-03,Trans States Airlines (Domestic),"New York, NY (LGA)",80,"18,320","4,000","3,648",91%,"889,440",0,0
+24,2015-03,United Air Lines Inc. (Domestic),"New York, NY (LGA)",744,"821,986","105,634","90,387",86%,"23,475,573","7,057",0
+25,2015-03,US Airways Inc. (Domestic),"New York, NY (LGA)","1,019","300,827","121,712","82,399",68%,"32,426,900","15,044",6
+26,2015-03,Virgin America (Domestic),"New York, NY (LGA)",105,"145,005","13,203","10,490",79%,"3,954,852",0,0
+27,2015-03,Westjet (International),"New York, NY (LGA)",180,"64,260","22,774","13,063",57%,"5,544,987",0,0
+1,2015-04,Air Canada (International),"New York, NY (LGA)",301,"107,391","30,284","24,986",83%,"7,665,511","5,551",0
+2,2015-04,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",487,"132,948","24,348","16,912",69%,"5,960,880","2,706",0
+3,2015-04,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,177","1,235,078","185,988","154,367",83%,"47,552,700","98,495",0
+4,2015-04,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,324","1,841,891","325,995","272,453",84%,"78,964,532","279,685",0
+5,2015-04,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"7,844",610,566,93%,"157,207",0,0
+6,2015-04,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",827,"547,952","60,911","42,790",70%,"17,116,006",177,0
+7,2015-04,Envoy Air (Domestic),"New York, NY (LGA)","1,538","838,274","87,091","60,741",70%,"22,020,410","1,220",0
+8,2015-04,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",835,"456,613","51,905","34,598",67%,"12,864,820",54,0
+9,2015-04,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",91,"113,562","12,618","11,279",89%,"9,239,000",0,0
+10,2015-04,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,099","598,568","76,930","50,856",66%,"19,353,390",0,0
+11,2015-04,Jazz Aviation LP (International),"New York, NY (LGA)",71,"23,217","3,550","2,311",65%,"1,065,000",0,0
+12,2015-04,JetBlue Airways (Domestic),"New York, NY (LGA)",561,"574,803","84,150","73,085",87%,"20,981,400","26,914",0
+13,2015-04,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",44,"10,076","3,080","2,875",93%,"814,000",0,0
+14,2015-04,Piedmont Airlines (Domestic),"New York, NY (LGA)",56,"5,376","1,992","1,644",83%,"484,400",145,0
+15,2015-04,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",25,"13,600","1,900","1,727",91%,"562,500",0,0
+16,2015-04,Republic Airlines (Domestic),"New York, NY (LGA)",142,"40,721","11,239","7,974",71%,"3,066,205",0,0
+17,2015-04,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,945","1,124,825","126,105","81,471",65%,"33,818,444",0,0
+18,2015-04,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",225,"74,154","16,392","12,382",76%,"4,354,341","5,443",0
+19,2015-04,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",10,"7,330",760,735,97%,"152,000",0,0
+20,2015-04,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",908,"856,380","132,636","108,640",82%,"32,155,200","257,061",0
+21,2015-04,Spirit Air Lines (Domestic),"New York, NY (LGA)",324,"274,157","59,722","54,216",91%,"11,873,200",0,0
+22,2015-04,"Swift Air, LLC (Domestic)","New York, NY (LGA)",1,327,179,46,26%,"34,700",0,0
+23,2015-04,Trans States Airlines (Domestic),"New York, NY (LGA)",10,"2,290",500,457,91%,"111,180",0,0
+24,2015-04,United Air Lines Inc. (Domestic),"New York, NY (LGA)",744,"831,139","107,016","89,309",83%,"24,052,931","6,915",1
+25,2015-04,US Airways Inc. (Domestic),"New York, NY (LGA)","1,059","307,915","125,599","92,845",74%,"33,408,500","15,162",5
+26,2015-04,Virgin America (Domestic),"New York, NY (LGA)",108,"149,148","13,560","10,926",81%,"4,068,318",0,0
+27,2015-04,Westjet (International),"New York, NY (LGA)",197,"70,329","24,611","15,916",65%,"5,981,107",0,0
+1,2015-05,Air Canada (International),"New York, NY (LGA)",366,"129,807","37,671","29,955",80%,"10,064,499","2,427",0
+2,2015-05,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",472,"128,781","23,600","17,969",76%,"5,777,280","2,184",0
+3,2015-05,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,178","1,232,519","186,294","162,908",87%,"47,543,600","176,984",0
+4,2015-05,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,276","1,778,989","320,191","262,192",82%,"78,010,749","278,871",0
+5,2015-05,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",5,"9,805",750,476,63%,"194,395",0,0
+6,2015-05,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",758,"545,747","56,346","43,743",78%,"15,866,420",222,0
+7,2015-05,Envoy Air (Domestic),"New York, NY (LGA)","1,407","760,275","79,967","61,247",77%,"20,282,600","1,108",0
+8,2015-05,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",773,"412,262","47,921","35,541",74%,"11,867,320",31,0
+9,2015-05,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",92,"107,056","15,840","13,399",85%,"10,780,000",0,0
+10,2015-05,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,181","630,581","82,670","58,252",70%,"20,797,410",0,0
+11,2015-05,Jazz Aviation LP (International),"New York, NY (LGA)",71,"23,217","3,625","2,805",77%,"1,076,398",0,0
+12,2015-05,JetBlue Airways (Domestic),"New York, NY (LGA)",546,"559,843","81,900","67,757",83%,"20,420,400","31,925",0
+13,2015-05,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",52,"11,908","3,640","3,323",91%,"962,000",0,0
+14,2015-05,Piedmont Airlines (Domestic),"New York, NY (LGA)",46,"4,416","1,668","1,453",87%,"397,900",78,0
+15,2015-05,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",24,"13,056","1,824","1,641",90%,"540,000",19,0
+16,2015-05,Republic Airlines (Domestic),"New York, NY (LGA)",121,"31,749","9,592","6,773",71%,"2,616,475",0,0
+17,2015-05,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,979","1,138,875","128,029","91,171",71%,"34,293,460",0,0
+18,2015-05,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",235,"78,087","17,156","13,792",80%,"4,282,159","3,986",0
+19,2015-05,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",9,"6,597",684,665,97%,"136,800",0,0
+20,2015-05,Songbird Airways Inc. (Domestic),"New York, NY (LGA)",1,"1,096",150,150,100%,"35,000",0,0
+21,2015-05,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",930,"872,103","135,768","121,159",89%,"32,898,000","320,444",0
+22,2015-05,Spirit Air Lines (Domestic),"New York, NY (LGA)",328,"276,171","60,075","55,397",92%,"11,897,000",0,0
+23,2015-05,Titan Airways (International),"New York, NY (LGA)",1,"1,424",148,87,59%,"26,543",0,0
+24,2015-05,Trans States Airlines (Domestic),"New York, NY (LGA)",100,"58,049","5,000","4,143",83%,"1,111,800",0,0
+25,2015-05,United Air Lines Inc. (Domestic),"New York, NY (LGA)",758,"842,345","111,986","100,863",90%,"28,517,704","31,090",0
+26,2015-05,US Airways Inc. (Domestic),"New York, NY (LGA)","1,047","305,015","125,067","97,561",78%,"33,340,700","16,952",75
+27,2015-05,Virgin America (Domestic),"New York, NY (LGA)",107,"147,767","13,549","11,978",88%,"4,027,964",0,0
+28,2015-05,Vision Airlines (Domestic),"New York, NY (LGA)",1,335,224,58,26%,"68,046",0,0
+29,2015-05,Westjet (International),"New York, NY (LGA)",193,"68,901","24,395","16,580",68%,"5,958,899",0,0
+30,2015-05,XTRA Airways (Domestic),"New York, NY (LGA)",1,"1,096",150,145,97%,"35,000",0,0
+1,2015-06,Air Canada (International),"New York, NY (LGA)",356,"125,748","37,635","33,144",88%,"10,095,309","4,814",0
+2,2015-06,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",536,"155,165","26,767","18,962",71%,"6,560,640","3,542",0
+3,2015-06,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,177","1,239,418","186,157","168,736",91%,"47,537,400","170,431",0
+4,2015-06,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,280","1,781,828","318,295","254,899",80%,"78,116,533","212,588",0
+5,2015-06,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"7,844",600,291,49%,"155,516",0,0
+6,2015-06,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",861,"577,361","63,514","50,375",79%,"17,856,076",873,0
+7,2015-06,Envoy Air (Domestic),"New York, NY (LGA)","1,059","574,966","62,403","49,016",79%,"16,006,340","1,088",0
+8,2015-06,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",832,"437,740","51,671","38,329",74%,"12,847,260",142,0
+9,2015-06,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"103,816","14,739","13,303",90%,"10,530,000",0,0
+10,2015-06,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",920,"513,576","64,400","47,415",74%,"16,201,200",0,0
+11,2015-06,Island Airlines LLC (Domestic),"New York, NY (LGA)",1,212,9,2,22%,"3,274",0,0
+12,2015-06,Jazz Aviation LP (International),"New York, NY (LGA)",70,"22,890","3,500","2,605",74%,"1,050,001",0,0
+13,2015-06,JetBlue Airways (Domestic),"New York, NY (LGA)",525,"534,687","78,750","62,735",80%,"19,635,000","28,787",0
+14,2015-06,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",34,"7,786","2,380","1,692",71%,"629,000",0,0
+15,2015-06,Piedmont Airlines (Domestic),"New York, NY (LGA)",39,"3,744","1,401","1,087",78%,"337,350",35,0
+16,2015-06,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",89,"47,079","5,048","4,069",81%,"1,325,340","1,206",0
+17,2015-06,Republic Airlines (Domestic),"New York, NY (LGA)",122,"31,372","9,617","6,664",69%,"2,624,723",0,0
+18,2015-06,Shuttle America Corp. (Domestic),"New York, NY (LGA)","2,112","1,208,550","137,242","101,229",74%,"36,845,045",0,0
+19,2015-06,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",227,"75,462","16,570","13,264",80%,"4,295,040","2,205",0
+20,2015-06,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",8,"5,864",608,565,93%,"121,600",0,0
+21,2015-06,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",929,"870,413","134,897","123,271",91%,"32,636,200","281,945",0
+22,2015-06,Spirit Air Lines (Domestic),"New York, NY (LGA)",299,"252,623","54,163","47,635",88%,"10,832,600",0,0
+23,2015-06,Trans States Airlines (Domestic),"New York, NY (LGA)",255,"147,558","12,750","10,336",81%,"2,835,090",0,0
+24,2015-06,United Air Lines Inc. (Domestic),"New York, NY (LGA)",729,"822,972","107,014","98,435",92%,"26,671,295","8,139",0
+25,2015-06,US Airways Inc. (Domestic),"New York, NY (LGA)","1,036","303,074","123,211","94,965",77%,"32,813,200","10,046",0
+26,2015-06,Virgin America (Domestic),"New York, NY (LGA)",106,"146,386","13,433","11,240",84%,"3,990,142",0,0
+27,2015-06,Westjet (International),"New York, NY (LGA)",189,"67,473","24,211","18,338",76%,"5,926,302",0,0
+1,2015-07,Air Canada (International),"New York, NY (LGA)",371,"131,622","38,311","33,985",89%,"10,186,205","5,419",0
+2,2015-07,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",408,"111,988","20,398","14,461",71%,"4,993,920","2,685",0
+3,2015-07,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,269","1,593,509","318,761","269,428",85%,"82,882,200","166,293",3
+4,2015-07,Avjet Corporation (Domestic),"New York, NY (LGA)",1,"2,460",8,2,25%,"2,000",0,0
+5,2015-07,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,069","1,750,040","295,169","245,419",83%,"71,568,542","137,298",0
+6,2015-07,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",8,"12,260","1,200",786,66%,"311,032",0,0
+7,2015-07,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",932,"616,231","68,832","52,418",76%,"19,355,712",341,0
+8,2015-07,Envoy Air (Domestic),"New York, NY (LGA)","1,159","625,313","67,836","48,914",72%,"17,337,490","1,210",0
+9,2015-07,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,053","555,103","66,052","45,941",70%,"16,799,440",75,0
+10,2015-07,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",93,"107,818","15,366","14,275",93%,"8,990,000",0,0
+11,2015-07,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",976,"540,092","68,320","49,070",72%,"17,187,360",0,0
+12,2015-07,Jazz Aviation LP (International),"New York, NY (LGA)",69,"22,563","3,450","2,464",71%,"1,035,001",0,0
+13,2015-07,JetBlue Airways (Domestic),"New York, NY (LGA)",549,"561,263","82,350","66,628",81%,"20,532,600","29,760",0
+14,2015-07,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",54,"12,366","3,780","1,965",52%,"999,000",0,0
+15,2015-07,Piedmont Airlines (Domestic),"New York, NY (LGA)",45,"4,320","1,620","1,184",73%,"389,250",261,0
+16,2015-07,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",37,"19,924","2,517","1,995",79%,"715,200",0,11
+17,2015-07,Republic Airlines (Domestic),"New York, NY (LGA)",143,"35,444","11,154","7,940",71%,"3,047,343",0,0
+18,2015-07,Shuttle America Corp. (Domestic),"New York, NY (LGA)","2,265","1,238,352","147,905","104,549",71%,"39,799,930",0,0
+19,2015-07,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",236,"78,609","17,231","13,649",79%,"4,533,554","2,508",0
+20,2015-07,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",999,"928,657","144,841","131,346",91%,"35,077,400","201,564",0
+21,2015-07,Spirit Air Lines (Domestic),"New York, NY (LGA)",329,"280,193","59,729","52,283",88%,"11,945,800",0,0
+22,2015-07,Trans States Airlines (Domestic),"New York, NY (LGA)",421,"214,670","21,050","15,029",71%,"4,680,678",0,0
+23,2015-07,United Air Lines Inc. (Domestic),"New York, NY (LGA)",778,"875,644","110,994","102,253",92%,"27,851,547","18,554",149
+24,2015-07,Virgin America (Domestic),"New York, NY (LGA)",112,"154,672","14,174","11,523",81%,"4,216,441",0,0
+25,2015-07,Westjet (International),"New York, NY (LGA)",194,"69,258","24,553","19,277",79%,"5,991,340",0,0
+1,2015-08,Air Canada (International),"New York, NY (LGA)",368,"130,551","37,931","35,342",93%,"10,162,337","3,941",0
+2,2015-08,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",377,"101,653","18,829","14,610",78%,"4,614,480","1,153",0
+3,2015-08,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,249","1,568,555","314,024","269,038",86%,"81,606,600","132,691",3
+4,2015-08,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,118","1,792,797","301,400","256,386",85%,"73,102,000","197,078","8,198"
+5,2015-08,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",10,"15,325","1,499","1,362",91%,"390,992",0,0
+6,2015-08,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,025","675,888","75,152","55,770",74%,"21,094,340",362,0
+7,2015-08,Envoy Air (Domestic),"New York, NY (LGA)","1,022","555,591","58,353","41,743",72%,"14,787,550","1,770",1
+8,2015-08,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,087","566,350","68,332","47,448",69%,"17,171,260",86,0
+9,2015-08,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",94,"108,914","15,702","14,225",91%,"10,982,000",0,0
+10,2015-08,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",952,"546,195","66,800","47,270",71%,"16,816,120",0,0
+11,2015-08,Jazz Aviation LP (International),"New York, NY (LGA)",73,"23,871","3,650","2,818",77%,"1,094,999",0,0
+12,2015-08,JetBlue Airways (Domestic),"New York, NY (LGA)",544,"556,897","81,600","70,495",86%,"20,345,600","25,677",0
+13,2015-08,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",60,"18,488","4,224","3,994",95%,"1,107,440",0,0
+14,2015-08,Piedmont Airlines (Domestic),"New York, NY (LGA)",45,"4,320","1,632","1,396",86%,"389,250",358,0
+15,2015-08,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",25,"13,600","1,900","1,788",94%,"562,500",3,0
+16,2015-08,Republic Airlines (Domestic),"New York, NY (LGA)",315,"124,478","23,765","16,190",68%,"6,637,510",0,0
+17,2015-08,Republic Airlines (Latin America),"New York, NY (LGA)",27,"9,639","1,996","1,445",72%,"566,993",0,0
+18,2015-08,Shuttle America Corp. (Domestic),"New York, NY (LGA)","2,378","1,282,992","155,543","105,130",68%,"41,889,171",0,0
+19,2015-08,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",235,"78,120","17,146","13,963",81%,"4,590,842","1,740",0
+20,2015-08,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",13,"9,529",988,961,97%,"197,600",0,0
+21,2015-08,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",979,"922,480","142,013","129,341",91%,"34,375,000","192,063",0
+22,2015-08,Spirit Air Lines (Domestic),"New York, NY (LGA)",331,"278,828","61,508","56,394",92%,"12,256,000",0,0
+23,2015-08,Tradewind Aviation (Domestic),"New York, NY (LGA)",2,336,16,9,56%,"6,900",0,0
+24,2015-08,Trans States Airlines (Domestic),"New York, NY (LGA)",464,"227,622","23,200","16,182",70%,"5,158,752",0,0
+25,2015-08,United Air Lines Inc. (Domestic),"New York, NY (LGA)",760,"856,489","109,410","101,723",93%,"27,744,127","16,746",0
+26,2015-08,Virgin America (Domestic),"New York, NY (LGA)",108,"149,148","13,701","10,064",73%,"4,065,153",0,0
+27,2015-08,Westjet (International),"New York, NY (LGA)",192,"68,544","24,699","20,455",83%,"6,051,569",0,0
+1,2015-09,Air Canada (International),"New York, NY (LGA)",361,"128,019","38,198","30,826",81%,"10,348,950","4,741",0
+2,2015-09,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",365,"97,719","18,249","13,288",73%,"4,467,600","1,306",0
+3,2015-09,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,204","1,537,904","307,401","257,804",84%,"80,072,200","192,649",348
+4,2015-09,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,935","1,568,420","256,485","202,763",79%,"64,736,752","274,543","34,576"
+5,2015-09,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",1,"1,096",189,69,37%,"82,900",0,0
+6,2015-09,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",994,"670,673","72,091","50,762",70%,"20,184,724",346,0
+7,2015-09,Envoy Air (Domestic),"New York, NY (LGA)",754,"401,176","42,705","30,428",71%,"10,813,050","1,426",0
+8,2015-09,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",844,"435,653","52,805","35,886",68%,"13,122,820",0,32
+9,2015-09,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"104,340","15,228","13,752",90%,"8,700,000",0,0
+10,2015-09,Gainjet Aviation SA (International),"New York, NY (LGA)",2,"3,501",126,36,29%,"28,314",0,0
+11,2015-09,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",857,"470,429","60,266","40,856",68%,"16,293,300",0,0
+12,2015-09,Island Airlines LLC (Domestic),"New York, NY (LGA)",2,315,18,2,11%,"5,557",0,0
+13,2015-09,Jazz Aviation LP (International),"New York, NY (LGA)",73,"23,871","3,650","2,500",68%,"1,094,999",0,0
+14,2015-09,JetBlue Airways (Domestic),"New York, NY (LGA)",535,"547,574","80,050","60,968",76%,"19,964,200","30,736",0
+15,2015-09,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",67,"24,839","4,818","4,412",92%,"1,234,380",0,0
+16,2015-09,Piedmont Airlines (Domestic),"New York, NY (LGA)",48,"4,608","1,755","1,437",82%,"415,200",29,0
+17,2015-09,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",80,"42,558","4,676","3,309",71%,"1,245,960",5,0
+18,2015-09,Republic Airlines (Domestic),"New York, NY (LGA)",467,"220,473","34,243","23,633",69%,"9,544,916",0,0
+19,2015-09,Republic Airlines (Latin America),"New York, NY (LGA)",69,"24,633","4,950","3,953",80%,"1,390,545",0,0
+20,2015-09,Shuttle America Corp. (Domestic),"New York, NY (LGA)","2,125","1,172,134","141,097","96,404",68%,"38,273,524",0,0
+21,2015-09,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",231,"76,758","16,851","13,830",82%,"4,434,898","1,749",0
+22,2015-09,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",15,"10,995","1,140","1,112",98%,"228,000",0,0
+23,2015-09,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",942,"886,232","136,594","119,265",87%,"33,088,400","254,814",0
+24,2015-09,Spirit Air Lines (Domestic),"New York, NY (LGA)",324,"273,182","60,521","53,211",88%,"12,117,400",0,0
+25,2015-09,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,118,8,4,50%,"3,450",0,0
+26,2015-09,Trans States Airlines (Domestic),"New York, NY (LGA)",447,"220,274","22,350","14,144",63%,"4,969,746",0,0
+27,2015-09,United Air Lines Inc. (Domestic),"New York, NY (LGA)",707,"790,201","102,346","93,457",91%,"26,165,244","17,536",0
+28,2015-09,Virgin America (Domestic),"New York, NY (LGA)",106,"146,386","13,382","11,317",85%,"3,991,408",0,0
+29,2015-09,Westjet (International),"New York, NY (LGA)",203,"72,471","23,741","16,073",68%,"6,067,281",0,0
+1,2015-10,Air Canada (International),"New York, NY (LGA)",401,"143,776","42,270","33,888",80%,"11,349,354","8,692",0
+2,2015-10,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",442,"107,692","22,098","15,634",71%,"5,410,080","2,454",0
+3,2015-10,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,228","1,539,087","310,154","263,515",85%,"80,896,200","222,187",0
+4,2015-10,Avjet Corporation (Domestic),"New York, NY (LGA)",2,"4,920",21,13,62%,"5,000",0,0
+5,2015-10,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,056","1,664,615","274,070","221,604",81%,"68,804,274","308,839","42,736"
+6,2015-10,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",1,"1,104",189,145,77%,"82,900",0,0
+7,2015-10,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,294","864,289","95,677","73,747",77%,"26,905,384",25,0
+8,2015-10,Envoy Air (Domestic),"New York, NY (LGA)",635,"331,958","35,344","27,022",76%,"8,876,430","1,409",0
+9,2015-10,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",855,"466,824","53,081","38,806",73%,"13,314,780",40,0
+10,2015-10,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",84,"94,620","14,208","12,479",88%,"2,841,600",0,0
+11,2015-10,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",932,"514,176","65,744","46,553",71%,"16,844,280",0,0
+12,2015-10,Jazz Aviation LP (International),"New York, NY (LGA)",75,"24,525","3,750","2,888",77%,"1,125,001",0,0
+13,2015-10,JetBlue Airways (Domestic),"New York, NY (LGA)",551,"563,939","81,400","63,582",78%,"20,327,400","13,766",0
+14,2015-10,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",63,"16,801","4,428","4,027",91%,"1,163,580",0,0
+15,2015-10,Miami Air International (Domestic),"New York, NY (LGA)",1,833,173,151,87%,"42,500",0,0
+16,2015-10,Piedmont Airlines (Domestic),"New York, NY (LGA)",5,480,181,124,69%,"43,250",0,0
+17,2015-10,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",100,"53,020","5,688","4,171",73%,"1,491,680",600,0
+18,2015-10,Republic Airlines (Domestic),"New York, NY (LGA)",512,"250,689","38,493","28,756",75%,"10,845,949",0,0
+19,2015-10,Republic Airlines (Latin America),"New York, NY (LGA)",77,"27,489","5,698","4,487",79%,"1,619,189",0,0
+20,2015-10,Shuttle America Corp. (Domestic),"New York, NY (LGA)","2,136","1,133,257","141,916","104,094",73%,"38,502,209",0,0
+21,2015-10,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",199,"65,400","14,513","11,881",82%,"3,909,338","1,661",0
+22,2015-10,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",4,"2,932",304,294,97%,"60,800",0,0
+23,2015-10,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",972,"914,925","140,916","122,776",87%,"34,144,800","326,463",0
+24,2015-10,Spirit Air Lines (Domestic),"New York, NY (LGA)",338,"285,648","63,476","55,020",87%,"12,722,000",0,0
+25,2015-10,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,163,9,1,11%,"3,450",0,0
+26,2015-10,Trans States Airlines (Domestic),"New York, NY (LGA)",531,"268,954","26,550","19,883",75%,"5,903,658",0,0
+27,2015-10,United Air Lines Inc. (Domestic),"New York, NY (LGA)",774,"853,907","111,527","100,122",90%,"28,751,754","9,260",0
+28,2015-10,Via Airlines d/b/a Charter Air Transport (Domestic),"New York, NY (LGA)",1,571,30,26,87%,"6,400",0,0
+29,2015-10,Virgin America (Domestic),"New York, NY (LGA)",108,"149,148","13,605","11,363",84%,"4,067,685",0,0
+30,2015-10,Westjet (International),"New York, NY (LGA)",205,"73,185","24,163","16,143",67%,"5,840,026",0,0
+1,2015-11,Air Canada (International),"New York, NY (LGA)",385,"137,025","41,604","28,899",69%,"11,306,971","8,561",0
+2,2015-11,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",454,"137,463","22,700","15,374",68%,"5,556,960","3,467",0
+3,2015-11,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,007","1,376,092","280,270","235,633",84%,"73,029,100","188,861",0
+4,2015-11,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,985","1,617,275","277,859","223,368",80%,"69,146,988","295,885","37,388"
+5,2015-11,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,077","731,123","80,060","60,283",75%,"22,545,518",4,0
+6,2015-11,Envoy Air (Domestic),"New York, NY (LGA)",246,"152,068","13,852","9,761",70%,"3,490,900",311,0
+7,2015-11,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,037","582,366","65,008","45,987",71%,"16,631,640",56,0
+8,2015-11,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",58,"53,882","9,600","8,410",88%,"1,920,000",0,0
+9,2015-11,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",814,"438,543","57,106","39,198",69%,"14,442,480",0,0
+10,2015-11,Jazz Aviation LP (International),"New York, NY (LGA)",95,"30,993","4,750","2,764",58%,"1,424,999",0,0
+11,2015-11,JetBlue Airways (Domestic),"New York, NY (LGA)",533,"546,656","79,950","65,023",81%,"19,934,200",0,0
+12,2015-11,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",67,"27,213","4,768","4,553",95%,"1,231,180",0,0
+13,2015-11,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",124,"58,302","6,802","5,065",74%,"1,751,910","1,892",0
+14,2015-11,Republic Airlines (Domestic),"New York, NY (LGA)",592,"325,439","44,234","32,128",73%,"12,511,570",0,0
+15,2015-11,Republic Airlines (Latin America),"New York, NY (LGA)",127,"45,339","8,887","6,843",77%,"2,468,060",0,0
+16,2015-11,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,975","1,093,700","133,106","91,831",69%,"36,354,601",0,0
+17,2015-11,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",53,"17,238","3,879","2,849",73%,"1,049,118",216,0
+18,2015-11,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",14,"10,262","1,064",995,94%,"212,800",0,0
+19,2015-11,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",919,"878,619","131,507","110,277",84%,"31,797,400","277,669",0
+20,2015-11,Spirit Air Lines (Domestic),"New York, NY (LGA)",324,"274,269","58,865","50,820",86%,"15,567,000",0,0
+21,2015-11,Trans States Airlines (Domestic),"New York, NY (LGA)",636,"303,186","31,800","21,514",68%,"7,071,048",0,0
+22,2015-11,United Air Lines Inc. (Domestic),"New York, NY (LGA)",690,"770,785","99,702","87,900",88%,"25,724,538","7,833",0
+23,2015-11,Via Airlines d/b/a Charter Air Transport (Domestic),"New York, NY (LGA)",1,571,30,26,87%,"6,400",0,0
+24,2015-11,Virgin America (Domestic),"New York, NY (LGA)",106,"146,386","13,403","11,295",84%,"3,990,775",0,0
+25,2015-11,Westjet (International),"New York, NY (LGA)",194,"69,258","23,242","16,940",73%,"5,635,271",0,0
+26,2015-11,XTRA Airways (Domestic),"New York, NY (LGA)",1,"1,198",168,130,77%,"35,000",0,0
+1,2015-12,Air Canada (International),"New York, NY (LGA)",392,"138,187","40,842","30,386",74%,"10,571,786","7,289",0
+2,2015-12,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",379,"111,968","18,950","14,350",76%,"4,638,960","2,923","1,070"
+3,2015-12,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,935","1,421,247","276,274","230,996",84%,"71,916,100","156,503","2,889"
+4,2015-12,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,388","2,103,298","329,322","254,022",77%,"82,018,982","318,316","55,044"
+5,2015-12,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"6,130",598,210,35%,"143,498",0,0
+6,2015-12,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,254","753,810","88,961","67,461",76%,"24,776,022",105,0
+7,2015-12,Envoy Air (Domestic),"New York, NY (LGA)",1,733,44,34,77%,"10,090",0,0
+8,2015-12,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",752,"399,008","46,956","35,004",75%,"11,650,320",55,0
+9,2015-12,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",57,"53,120","9,420","7,767",82%,"1,884,000",0,0
+10,2015-12,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",698,"389,690","49,658","33,747",68%,"12,975,400",0,0
+11,2015-12,Jazz Aviation LP (International),"New York, NY (LGA)",98,"31,977","4,900","3,563",73%,"1,470,001",0,0
+12,2015-12,JetBlue Airways (Domestic),"New York, NY (LGA)",554,"567,219","83,100","65,458",79%,"20,719,600",0,0
+13,2015-12,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",51,"16,427","3,594","3,360",93%,"940,940",0,0
+14,2015-12,Miami Air International (Domestic),"New York, NY (LGA)",2,"1,663",241,58,24%,"72,200",0,0
+15,2015-12,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",155,"75,811","8,365","6,695",80%,"2,138,540","2,442",0
+16,2015-12,Republic Airlines (Domestic),"New York, NY (LGA)",749,"455,057","54,229","41,367",76%,"15,137,607",0,0
+17,2015-12,Republic Airlines (Latin America),"New York, NY (LGA)",134,"47,838","9,549","7,534",79%,"2,669,479",0,0
+18,2015-12,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,574","811,299","107,667","76,755",71%,"29,592,756",0,0
+19,2015-12,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",152,"49,512","11,096","8,670",78%,"2,835,180","2,541",0
+20,2015-12,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",10,"7,330",760,724,95%,"152,000",0,0
+21,2015-12,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",939,"896,651","134,291","116,845",87%,"32,450,200","278,930",0
+22,2015-12,Spirit Air Lines (Domestic),"New York, NY (LGA)",328,"277,086","61,962","52,040",84%,"18,747,400",0,0
+23,2015-12,Tradewind Aviation (Domestic),"New York, NY (LGA)",2,"1,282",16,3,19%,"6,900",0,0
+24,2015-12,Trans States Airlines (Domestic),"New York, NY (LGA)",696,"319,296","34,800","25,703",74%,"7,738,128",0,0
+25,2015-12,United Air Lines Inc. (Domestic),"New York, NY (LGA)",664,"753,747","96,146","85,239",89%,"24,123,306","9,309",0
+26,2015-12,Virgin America (Domestic),"New York, NY (LGA)",117,"161,577","14,811","12,285",83%,"4,404,918",0,0
+27,2015-12,Westjet (International),"New York, NY (LGA)",195,"69,615","24,187","16,153",67%,"5,924,158",0,0
+1,2016-01,Air Canada (International),"New York, NY (LGA)",347,"122,262","35,958","20,508",57%,"9,561,561","4,261",0
+2,2016-01,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",366,"135,951","18,299","9,714",53%,"4,479,840",374,0
+3,2016-01,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,963","1,346,132","272,069","211,861",78%,"70,760,700","91,183",0
+4,2016-01,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,188","1,775,263","301,801","222,424",74%,"75,136,963","255,657","38,140"
+5,2016-01,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",6,"8,338",898,579,64%,"221,256",0,0
+6,2016-01,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,194","859,468","88,352","54,052",61%,"24,854,206",128,0
+7,2016-01,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",891,"491,966","55,815","31,051",56%,"13,663,960",107,0
+8,2016-01,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",59,"54,978","10,530","8,750",83%,"2,106,000",0,0
+9,2016-01,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",722,"391,924","51,542","26,944",52%,"13,572,800",0,0
+10,2016-01,Jazz Aviation LP (International),"New York, NY (LGA)",90,"29,361","4,500","2,404",53%,"1,350,000",0,0
+11,2016-01,JetBlue Airways (Domestic),"New York, NY (LGA)",528,"541,469","79,200","63,564",80%,"19,747,200",0,0
+12,2016-01,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",59,"23,007","4,184","3,942",94%,"1,085,740",0,0
+13,2016-01,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",193,"94,812","10,274","6,820",66%,"2,608,560","1,171",0
+14,2016-01,Republic Airlines (Domestic),"New York, NY (LGA)",969,"645,460","69,734","41,936",60%,"19,397,489",0,0
+15,2016-01,Republic Airlines (Latin America),"New York, NY (LGA)",108,"38,556","7,612","5,866",77%,"2,105,312",0,0
+16,2016-01,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,390","645,582","92,338","50,774",55%,"25,033,367",0,0
+17,2016-01,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",147,"48,057","10,733","5,978",56%,"2,813,736","2,897",0
+18,2016-01,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",74,"54,094","5,624","4,921",88%,"1,124,800",0,0
+19,2016-01,Songbird Airways Inc. (Domestic),"New York, NY (LGA)",1,511,150,85,57%,"35,000",0,0
+20,2016-01,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",870,"830,893","125,096","95,289",76%,"30,247,600","7,791",0
+21,2016-01,Spirit Air Lines (Domestic),"New York, NY (LGA)",309,"260,998","57,744","48,981",85%,"11,552,800",0,0
+22,2016-01,Trans States Airlines (Domestic),"New York, NY (LGA)",483,"229,618","24,150","14,523",60%,"5,369,994",0,0
+23,2016-01,United Air Lines Inc. (Domestic),"New York, NY (LGA)",582,"685,405","83,652","70,438",84%,"20,662,542","5,454",0
+24,2016-01,Virgin America (Domestic),"New York, NY (LGA)",101,"139,481","12,643","9,625",76%,"3,805,463",0,0
+25,2016-01,Westjet (International),"New York, NY (LGA)",191,"68,187","23,132","14,557",63%,"5,622,940",0,0
+26,2016-01,XTRA Airways (Domestic),"New York, NY (LGA)",1,208,179,43,24%,"75,830",0,0
+1,2016-02,Air Canada (International),"New York, NY (LGA)",335,"118,176","34,899","22,435",64%,"9,280,543","5,238",0
+2,2016-02,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",337,"122,598","16,850","8,889",53%,"4,124,880","1,583",0
+3,2016-02,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,980","1,348,212","274,443","207,724",76%,"71,147,200","169,669",0
+4,2016-02,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,134","1,732,849","299,360","217,916",73%,"73,826,508","275,998","11,782"
+5,2016-02,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"4,416",600,302,50%,"155,516",0,0
+6,2016-02,Endeavor Air Inc. (Domestic),"New York, NY (LGA)",965,"714,024","71,920","45,794",64%,"20,263,322",94,0
+7,2016-02,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",948,"524,767","59,680","36,190",61%,"15,062,420",52,0
+8,2016-02,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",55,"50,928","9,900","8,730",88%,"1,980,000",0,0
+9,2016-02,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",745,"397,758","53,206","30,473",57%,"14,024,090",0,0
+10,2016-02,Jazz Aviation LP (International),"New York, NY (LGA)",82,"26,757","4,100","2,152",52%,"1,229,998",0,0
+11,2016-02,JetBlue Airways (Domestic),"New York, NY (LGA)",500,"511,764","75,000","61,492",82%,"18,700,000",0,0
+12,2016-02,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",58,"23,965","4,114","3,770",92%,"1,067,240",0,0
+13,2016-02,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",189,"92,936","10,048","6,962",69%,"2,542,470","2,867",0
+14,2016-02,Republic Airlines (Domestic),"New York, NY (LGA)",945,"631,483","67,752","41,001",61%,"18,825,419",0,0
+15,2016-02,Republic Airlines (Latin America),"New York, NY (LGA)",96,"34,272","6,734","5,195",77%,"1,859,942",0,0
+16,2016-02,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,345","606,415","89,305","53,361",60%,"24,201,940",0,0
+17,2016-02,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",137,"44,817","9,985","7,139",71%,"2,629,181","2,557",0
+18,2016-02,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",52,"38,116","3,946","3,395",86%,"793,940",0,0
+19,2016-02,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",829,"793,329","119,315","88,244",74%,"28,887,400",317,0
+20,2016-02,Spirit Air Lines (Domestic),"New York, NY (LGA)",284,"240,339","52,982","45,433",86%,"10,596,400",0,0
+21,2016-02,Sun Country Airlines d/b/a MN Airlines (Domestic),"New York, NY (LGA)",1,"2,235",129,99,77%,"35,983",0,0
+22,2016-02,"Swift Air, LLC (Domestic)","New York, NY (LGA)",3,"1,712",204,27,13%,"104,123",0,0
+23,2016-02,Trans States Airlines (Domestic),"New York, NY (LGA)",501,"240,752","25,050","16,736",67%,"5,570,118",0,0
+24,2016-02,United Air Lines Inc. (Domestic),"New York, NY (LGA)",607,"709,788","87,640","70,775",81%,"21,973,222","4,814",0
+25,2016-02,Virgin America (Domestic),"New York, NY (LGA)",93,"128,433","11,865","8,102",68%,"3,499,089",0,0
+26,2016-02,Westjet (International),"New York, NY (LGA)",168,"59,976","20,727","12,119",58%,"5,044,156",0,0
+1,2016-03,Air Canada (International),"New York, NY (LGA)",385,"135,468","40,768","29,787",73%,"10,726,108","7,309",0
+2,2016-03,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",389,"140,951","19,450","11,416",59%,"4,761,360","3,107",0
+3,2016-03,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,238","1,504,422","309,515","244,057",79%,"80,059,800","218,599",35
+4,2016-03,Ameristar Air Cargo (Domestic),"New York, NY (LGA)",1,"1,444",147,0,0%,"34,696",0,0
+5,2016-03,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airli","New York, NY (LGA)",1,908,155,0,0%,"35,000",0,0
+6,2016-03,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,381","2,053,324","345,280","275,969",80%,"83,744,779","308,981",11
+7,2016-03,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",4,"4,416",600,359,60%,"155,516",0,0
+8,2016-03,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",1,101,189,0,0%,"82,900",0,0
+9,2016-03,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,472","1,021,527","106,146","75,465",71%,"29,679,506",260,0
+10,2016-03,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",897,"434,490","53,745","35,772",67%,"13,581,860",0,0
+11,2016-03,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",58,"53,882","10,440","9,335",89%,"2,088,000",0,0
+12,2016-03,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",981,"554,081","69,780","45,811",66%,"18,226,310",0,0
+13,2016-03,Jazz Aviation LP (International),"New York, NY (LGA)",98,"31,980","5,125","2,830",55%,"1,504,199",0,0
+14,2016-03,JetBlue Airways (Domestic),"New York, NY (LGA)",555,"569,242","83,250","71,635",86%,"20,757,000",0,0
+15,2016-03,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",60,"18,488","4,242","4,012",95%,"1,105,520",0,0
+16,2016-03,Miami Air International (Domestic),"New York, NY (LGA)",2,778,346,100,29%,"85,000",0,0
+17,2016-03,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",176,"84,000","9,467","6,685",71%,"2,402,360","2,093",0
+18,2016-03,Republic Airlines (Domestic),"New York, NY (LGA)","1,146","787,138","83,210","56,815",68%,"23,207,822",0,0
+19,2016-03,Republic Airlines (Latin America),"New York, NY (LGA)",116,"41,412","8,186","5,913",72%,"2,263,470",0,0
+20,2016-03,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,735","818,964","120,494","81,468",68%,"33,341,916",0,0
+21,2016-03,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",157,"51,396","11,462","8,039",70%,"2,807,753","1,709",0
+22,2016-03,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",65,"47,645","4,940","4,627",94%,"988,000",0,0
+23,2016-03,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",938,"898,681","134,378","113,959",85%,"32,477,200","8,681",0
+24,2016-03,Spirit Air Lines (Domestic),"New York, NY (LGA)",337,"282,928","64,444","58,241",90%,"37,527,000",0,0
+25,2016-03,Sun Country Airlines d/b/a MN Airlines (Domestic),"New York, NY (LGA)",1,352,162,70,43%,"44,416",0,0
+26,2016-03,"Swift Air, LLC (Domestic)","New York, NY (LGA)",3,"4,351",368,260,71%,"104,100",0,0
+27,2016-03,Trans States Airlines (Domestic),"New York, NY (LGA)",679,"328,772","33,950","24,330",72%,"7,549,122",0,0
+28,2016-03,United Air Lines Inc. (Domestic),"New York, NY (LGA)",661,"778,127","97,179","85,759",88%,"25,068,506","5,820",0
+29,2016-03,Virgin America (Domestic),"New York, NY (LGA)",111,"153,291","13,563","10,687",79%,"4,190,013",0,0
+30,2016-03,Westjet (International),"New York, NY (LGA)",192,"68,544","23,241","13,938",60%,"5,652,612",0,0
+31,2016-03,XTRA Airways (Domestic),"New York, NY (LGA)",1,599,179,51,28%,"35,000",0,0
+1,2016-04,Air Canada (International),"New York, NY (LGA)",354,"124,695","37,491","30,531",81%,"9,954,561","6,532",0
+2,2016-04,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",363,"128,313","18,150","11,197",62%,"4,443,120","2,521",425
+3,2016-04,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,139","1,439,486","298,690","248,472",83%,"77,147,200","186,314",0
+4,2016-04,Chartright Air Inc. (International),"New York, NY (LGA)",2,702,8,2,25%,"2,400",0,0
+5,2016-04,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,098","1,778,864","305,959","251,526",82%,"75,743,423","263,660",0
+6,2016-04,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",1,"1,104",150,125,83%,"38,879",0,0
+7,2016-04,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,594","986,872","113,331","83,341",74%,"31,582,590",85,0
+8,2016-04,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",788,"372,745","46,176","31,993",69%,"11,805,960",0,0
+9,2016-04,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",76,"82,518","12,660","11,576",91%,"2,532,000",0,0
+10,2016-04,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,075","618,103","76,558","51,405",67%,"20,051,270",0,0
+11,2016-04,Jazz Aviation LP (International),"New York, NY (LGA)",159,"51,729","9,774","7,052",72%,"2,662,298",0,0
+12,2016-04,JetBlue Airways (Domestic),"New York, NY (LGA)",536,"549,806","80,400","66,637",83%,"20,046,400",0,0
+13,2016-04,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",64,"20,591","4,510","4,225",94%,"1,180,800",0,0
+14,2016-04,Miami Air International (Domestic),"New York, NY (LGA)",2,"2,016",346,149,43%,"85,000",0,0
+15,2016-04,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",142,"67,019","7,750","4,970",64%,"1,978,550","1,362",0
+16,2016-04,Republic Airlines (Domestic),"New York, NY (LGA)","1,112","785,603","81,229","54,838",68%,"22,756,597",0,0
+17,2016-04,Republic Airlines (Latin America),"New York, NY (LGA)",91,"32,487","6,508","4,743",73%,"1,821,413",0,0
+18,2016-04,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,495","866,547","108,087","75,446",70%,"30,418,699",0,0
+19,2016-04,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",84,"28,206","6,129","4,486",73%,"1,574,118","1,142",0
+20,2016-04,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",43,"31,519","3,010","3,010",100%,"653,600",0,0
+21,2016-04,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",903,"861,062","129,117","110,745",86%,"31,222,200","225,031",0
+22,2016-04,Spirit Air Lines (Domestic),"New York, NY (LGA)",330,"274,721","62,880","54,487",87%,"19,332,600",0,0
+23,2016-04,"Swift Air, LLC (Domestic)","New York, NY (LGA)",1,725,68,27,40%,"35,138",0,0
+24,2016-04,Trans States Airlines (Domestic),"New York, NY (LGA)",682,"333,414","34,100","25,509",75%,"7,582,476",0,0
+25,2016-04,United Air Lines Inc. (Domestic),"New York, NY (LGA)",653,"755,318","96,549","86,106",89%,"24,954,694","25,476",0
+26,2016-04,Virgin America (Domestic),"New York, NY (LGA)",103,"142,243","12,452","9,924",80%,"3,891,235",0,0
+27,2016-04,Westjet (International),"New York, NY (LGA)",190,"67,830","22,621","12,686",56%,"5,487,421",0,0
+1,2016-05,Air Canada (International),"New York, NY (LGA)",356,"127,755","43,494","36,966",85%,"11,324,337","7,344",0
+2,2016-05,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",342,"128,677","17,100","13,053",76%,"4,186,080","2,293",0
+3,2016-05,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,230","1,505,375","312,446","273,955",88%,"80,504,300","107,097",0
+4,2016-05,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,092","1,760,882","307,390","258,477",84%,"76,496,736","285,152",0
+5,2016-05,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",1,17,189,2,1%,"81,900",0,0
+6,2016-05,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,512","889,798","104,953","80,875",77%,"29,072,260",0,0
+7,2016-05,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",882,"423,419","52,541","39,256",75%,"13,449,420",66,0
+8,2016-05,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",93,"107,818","14,880","13,865",93%,"2,976,000",0,0
+9,2016-05,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,259","726,020","89,510","63,907",71%,"23,353,190",0,0
+10,2016-05,Jazz Aviation LP (International),"New York, NY (LGA)",76,"24,852","3,800","2,681",71%,"1,140,000",0,0
+11,2016-05,JetBlue Airways (Domestic),"New York, NY (LGA)",557,"571,197","83,550","72,235",86%,"20,831,800",0,0
+12,2016-05,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",71,"28,129","5,036","4,738",94%,"1,306,460",0,0
+13,2016-05,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",143,"67,298","7,901","5,786",73%,"2,023,270","1,357",0
+14,2016-05,Republic Airlines (Domestic),"New York, NY (LGA)","1,231","848,705","93,855","72,375",77%,"26,834,071",0,0
+15,2016-05,Republic Airlines (Latin America),"New York, NY (LGA)",67,"23,919","5,096","3,603",71%,"1,460,801",0,0
+16,2016-05,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,689","991,204","122,141","83,372",68%,"34,400,878",0,0
+17,2016-05,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",250,"82,254","18,248","15,244",84%,"4,624,449","3,699",0
+18,2016-05,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",62,"45,446","4,706","4,505",96%,"945,940",0,0
+19,2016-05,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",948,"909,471","135,596","126,441",93%,"32,800,000","229,522",0
+20,2016-05,Spirit Air Lines (Domestic),"New York, NY (LGA)",335,"283,106","63,578","59,959",94%,"13,050,400",0,0
+21,2016-05,"Swift Air, LLC (Domestic)","New York, NY (LGA)",1,"2,495",179,27,15%,"34,700",0,0
+22,2016-05,Trans States Airlines (Domestic),"New York, NY (LGA)",728,"353,351","36,400","29,329",81%,"8,093,904",0,0
+23,2016-05,United Air Lines Inc. (Domestic),"New York, NY (LGA)",699,"806,826","103,835","95,747",92%,"26,076,354","54,240",0
+24,2016-05,Virgin America (Domestic),"New York, NY (LGA)",111,"153,291","13,320","11,730",88%,"4,195,710",0,0
+25,2016-05,Westjet (International),"New York, NY (LGA)",209,"74,613","25,657","15,378",60%,"6,239,017",0,0
+1,2016-06,Air Canada (International),"New York, NY (LGA)",329,"117,453","40,452","34,853",86%,"10,794,104","5,036",0
+2,2016-06,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",360,"136,934","18,000","15,179",84%,"4,406,400","2,277",0
+3,2016-06,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,269","1,520,476","316,247","280,527",89%,"82,125,900","198,935",0
+4,2016-06,Ameristar Air Cargo (Domestic),"New York, NY (LGA)",1,762,0,0,-,"21,423",948,0
+5,2016-06,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,093","1,746,297","302,771","242,137",80%,"75,564,915","232,456",0
+6,2016-06,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,475","882,406","101,905","76,692",75%,"28,195,668",441,0
+7,2016-06,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,229","609,184","75,025","54,357",72%,"19,097,820",693,0
+8,2016-06,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"104,340","16,170","14,962",93%,"3,234,000",0,0
+9,2016-06,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)","1,056","597,461","74,322","52,339",70%,"18,940,540",0,0
+10,2016-06,Jazz Aviation LP (International),"New York, NY (LGA)",73,"23,931","3,700","2,426",66%,"1,102,600",0,0
+11,2016-06,JetBlue Airways (Domestic),"New York, NY (LGA)",530,"539,487","77,400","65,235",84%,"19,351,600",0,0
+12,2016-06,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",61,"23,465","4,318","4,142",96%,"1,123,380",0,0
+13,2016-06,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",144,"66,081","7,789","6,280",81%,"1,970,740",875,0
+14,2016-06,Republic Airlines (Domestic),"New York, NY (LGA)",956,"665,673","72,810","62,292",86%,"20,781,315",0,0
+15,2016-06,Republic Airlines (Latin America),"New York, NY (LGA)",55,"19,635","4,188","2,800",67%,"1,199,165",0,0
+16,2016-06,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,556","953,192","113,249","71,087",63%,"31,983,262",0,0
+17,2016-06,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",252,"83,166","18,391","15,137",82%,"4,781,089","5,109",0
+18,2016-06,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",85,"61,991","6,460","6,280",97%,"1,292,000",0,0
+19,2016-06,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",940,"898,995","134,804","127,309",94%,"32,603,200","252,158",0
+20,2016-06,Spirit Air Lines (Domestic),"New York, NY (LGA)",314,"266,175","60,517","53,414",88%,"12,086,200",0,0
+21,2016-06,Trans States Airlines (Domestic),"New York, NY (LGA)",762,"373,220","38,100","32,365",85%,"8,471,916",0,0
+22,2016-06,United Air Lines Inc. (Domestic),"New York, NY (LGA)",665,"769,331","98,606","93,494",95%,"24,496,764","50,696",0
+23,2016-06,Virgin America (Domestic),"New York, NY (LGA)",108,"149,148","12,852","11,783",92%,"4,084,776",0,0
+24,2016-06,Westjet (International),"New York, NY (LGA)",194,"69,258","25,818","19,764",77%,"6,296,594",0,0
+1,2016-07,Air Canada (International),"New York, NY (LGA)",330,"117,810","39,867","37,350",94%,"10,513,941","6,376",0
+2,2016-07,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",343,"130,417","17,150","14,107",82%,"4,198,320","3,150",0
+3,2016-07,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,216","1,501,806","311,512","268,970",86%,"80,971,000","190,597",0
+4,2016-07,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,051","1,725,628","293,857","238,801",81%,"72,942,562","185,890",0
+5,2016-07,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,439","848,393","101,152","76,052",75%,"28,105,748",142,0
+6,2016-07,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,146","552,962","69,705","50,809",73%,"17,945,580",53,0
+7,2016-07,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",89,"103,244","16,020","14,937",93%,"3,204,000",0,0
+8,2016-07,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",827,"518,301","58,070","40,736",70%,"14,717,670",0,0
+9,2016-07,Jazz Aviation LP (International),"New York, NY (LGA)",68,"22,236","3,400","2,651",78%,"1,019,999",0,0
+10,2016-07,JetBlue Airways (Domestic),"New York, NY (LGA)",534,"545,433","75,600","63,816",84%,"18,963,600",0,0
+11,2016-07,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",59,"19,446","4,160","3,920",94%,"1,088,300",0,0
+12,2016-07,Nolinor Aviation (International),"New York, NY (LGA)",1,324,8,3,38%,"1,443",836,0
+13,2016-07,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",134,"62,320","7,246","5,829",80%,"1,835,010","1,725","1,100"
+14,2016-07,Republic Airlines (Domestic),"New York, NY (LGA)",954,"668,846","72,848","59,882",82%,"20,778,374",0,0
+15,2016-07,Republic Airlines (Latin America),"New York, NY (LGA)",56,"19,992","4,264","3,450",81%,"1,220,968",0,0
+16,2016-07,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,502","890,827","108,691","66,392",61%,"30,612,892",0,0
+17,2016-07,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",250,"82,518","18,247","16,021",88%,"4,774,978","3,672",0
+18,2016-07,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",59,"42,806","4,484","4,339",97%,"896,800",0,0
+19,2016-07,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",938,"887,455","134,736","125,822",93%,"32,595,600","210,820",0
+20,2016-07,Spirit Air Lines (Domestic),"New York, NY (LGA)",315,"268,942","61,287","53,677",88%,"12,255,400",0,0
+21,2016-07,Trans States Airlines (Domestic),"New York, NY (LGA)",694,"344,680","34,700","29,503",85%,"7,715,892",0,0
+22,2016-07,United Air Lines Inc. (Domestic),"New York, NY (LGA)",634,"754,696","93,828","88,203",94%,"22,910,466","6,685",0
+23,2016-07,Virgin America (Domestic),"New York, NY (LGA)",108,"149,148","12,852","11,411",89%,"4,084,776",0,0
+24,2016-07,Westjet (International),"New York, NY (LGA)",192,"68,544","25,686","23,192",90%,"6,282,382",0,0
+1,2016-08,Air Canada (International),"New York, NY (LGA)",346,"123,522","41,663","39,735",95%,"10,746,075","6,875",0
+2,2016-08,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",330,"129,329","16,500","10,763",65%,"4,039,200","2,393",0
+3,2016-08,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,316","1,548,064","323,702","259,254",80%,"84,259,000","195,572",0
+4,2016-08,Avjet Corporation (Domestic),"New York, NY (LGA)",1,184,7,2,29%,"2,000",0,0
+5,2016-08,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,073","1,727,393","293,952","240,041",82%,"73,130,893","213,923",0
+6,2016-08,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,600","964,711","113,116","80,870",71%,"31,468,548",558,0
+7,2016-08,Envoy Air (Domestic),"New York, NY (LGA)",43,"13,049","2,150",999,46%,"531,050",0,0
+8,2016-08,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,253","603,030","75,981","53,294",70%,"19,417,980",0,0
+9,2016-08,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",91,"104,578","16,380","14,972",91%,"3,278,400",0,0
+10,2016-08,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",799,"495,957","56,104","38,543",69%,"14,219,450",0,0
+11,2016-08,Jazz Aviation LP (International),"New York, NY (LGA)",76,"24,852","3,800","2,881",76%,"1,140,000",0,0
+12,2016-08,JetBlue Airways (Domestic),"New York, NY (LGA)",540,"552,502","76,450","67,518",88%,"19,176,800",0,0
+13,2016-08,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",59,"15,885","4,142","3,875",94%,"1,090,220",0,0
+14,2016-08,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",148,"68,629","7,928","5,250",66%,"1,996,570","1,627",0
+15,2016-08,Republic Airlines (Domestic),"New York, NY (LGA)","1,041","721,634","79,442","52,295",66%,"22,677,946",0,0
+16,2016-08,Republic Airlines (Latin America),"New York, NY (LGA)",59,"21,063","4,488","3,612",80%,"1,286,377",0,0
+17,2016-08,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,574","961,567","114,195","64,131",56%,"32,198,974",0,0
+18,2016-08,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",250,"82,518","18,247","16,021",88%,"4,774,021","3,672",0
+19,2016-08,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",32,"23,456","2,432","2,360",97%,"486,400",0,0
+20,2016-08,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",982,"935,370","140,504","128,619",92%,"33,958,000","229,359",0
+21,2016-08,Spirit Air Lines (Domestic),"New York, NY (LGA)",333,"280,298","64,841","58,764",91%,"12,948,000",0,0
+22,2016-08,Tradewind Aviation (Domestic),"New York, NY (LGA)",2,270,16,7,44%,"6,900",0,0
+23,2016-08,Trans States Airlines (Domestic),"New York, NY (LGA)",758,"372,578","37,900","28,097",74%,"8,427,444",0,0
+24,2016-08,United Air Lines Inc. (Domestic),"New York, NY (LGA)",756,"863,535","110,634","103,394",93%,"27,499,093","30,908",0
+25,2016-08,Virgin America (Domestic),"New York, NY (LGA)",80,"110,480","9,520","8,134",85%,"3,025,760",0,0
+26,2016-08,Westjet (International),"New York, NY (LGA)",199,"71,043","26,760","24,091",90%,"6,536,856",0,0
+27,2016-08,XTRA Airways (Domestic),"New York, NY (LGA)",1,725,179,71,40%,"75,830",0,0
+1,2016-09,Air Canada (International),"New York, NY (LGA)",334,"119,238","40,164","35,525",88%,"10,135,220","5,703",0
+2,2016-09,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",364,"140,205","18,200","11,173",61%,"4,455,360","3,136",0
+3,2016-09,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,208","1,505,902","310,901","240,930",77%,"80,981,100","106,408",1
+4,2016-09,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,938","1,576,473","260,378","212,113",81%,"66,094,830","271,855",0
+5,2016-09,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",4,813,592,149,25%,"150,000",0,0
+6,2016-09,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,648","997,479","117,260","84,433",72%,"32,671,682",363,0
+7,2016-09,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,267","625,475","76,597","53,850",70%,"19,861,420",0,0
+8,2016-09,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"104,340","16,200","14,477",89%,"3,249,600",0,0
+9,2016-09,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",555,"358,479","38,886","27,367",70%,"9,804,390",0,0
+10,2016-09,Jazz Aviation LP (International),"New York, NY (LGA)",73,"23,871","3,650","2,635",72%,"1,094,999",0,0
+11,2016-09,JetBlue Airways (Domestic),"New York, NY (LGA)",526,"538,934","78,000","59,307",76%,"19,470,800",0,0
+12,2016-09,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",67,"26,026","4,744","4,449",94%,"1,233,740",0,0
+13,2016-09,Miami Air International (Domestic),"New York, NY (LGA)",8,"3,538","1,232",187,15%,"606,640",0,0
+14,2016-09,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",143,"66,883","7,797","5,099",65%,"1,977,190","2,292",0
+15,2016-09,Republic Airlines (Domestic),"New York, NY (LGA)","1,045","709,083","79,748","51,607",65%,"22,773,291",0,0
+16,2016-09,Republic Airlines (Latin America),"New York, NY (LGA)",38,"13,434","2,888","2,154",75%,"828,514",0,0
+17,2016-09,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,534","935,390","111,731","64,778",58%,"31,557,289",0,0
+18,2016-09,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",261,"86,247","19,049","16,894",89%,"4,752,005","5,784",0
+19,2016-09,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",2,"1,466",152,149,98%,"30,400",0,0
+20,2016-09,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",952,"910,260","136,200","120,869",89%,"32,935,200","213,351",0
+21,2016-09,Spirit Air Lines (Domestic),"New York, NY (LGA)",327,"275,689","63,155","52,851",84%,"12,612,600",0,0
+22,2016-09,Trans States Airlines (Domestic),"New York, NY (LGA)",771,"364,397","38,550","27,725",72%,"8,571,978",0,0
+23,2016-09,United Air Lines Inc. (Domestic),"New York, NY (LGA)",755,"842,048","110,273","102,391",93%,"28,009,539","11,501",0
+24,2016-09,Virgin America (Domestic),"New York, NY (LGA)",107,"147,767","12,733","10,751",84%,"4,046,954",0,0
+25,2016-09,Westjet (International),"New York, NY (LGA)",202,"72,114","26,272","20,452",78%,"6,439,125",0,0
+1,2016-10,Air Canada (International),"New York, NY (LGA)",339,"120,990","40,665","35,191",87%,"10,225,374","3,969",0
+2,2016-10,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",433,"180,053","21,650","14,174",65%,"5,299,920","3,806",8
+3,2016-10,American Airlines Inc. (Domestic),"New York, NY (LGA)","2,221","1,514,446","312,345","242,641",78%,"81,297,600","61,257",0
+4,2016-10,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,915","1,540,179","262,272","217,144",83%,"65,813,055","293,167",0
+5,2016-10,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",3,"1,355",192,87,45%,"112,500",0,0
+6,2016-10,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,031","1,185,365","139,094","106,197",76%,"38,395,390",975,0
+7,2016-10,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",984,"528,120","62,197","44,497",72%,"15,960,680",0,0
+8,2016-10,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",91,"105,626","16,380","14,300",87%,"3,295,200",0,0
+9,2016-10,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",523,"317,566","36,652","25,650",70%,"9,246,010",0,0
+10,2016-10,Jazz Aviation LP (International),"New York, NY (LGA)",77,"25,179","3,850","2,821",73%,"1,155,000",0,0
+11,2016-10,JetBlue Airways (Domestic),"New York, NY (LGA)",509,"516,156","76,000","59,749",79%,"18,958,200",0,0
+12,2016-10,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",63,"16,801","4,422","4,174",94%,"1,164,220",0,0
+13,2016-10,Miami Air International (Domestic),"New York, NY (LGA)",11,"4,649","1,713",402,23%,"339,500",0,0
+14,2016-10,Miami Air International (International),"New York, NY (LGA)",1,"2,019",173,0,0%,"42,500",0,0
+15,2016-10,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",146,"67,877","7,924","5,374",68%,"2,020,000","3,974",850
+16,2016-10,Republic Airlines (Domestic),"New York, NY (LGA)","1,031","701,628","78,632","54,344",69%,"22,440,939",0,0
+17,2016-10,Republic Airlines (Latin America),"New York, NY (LGA)",21,"7,464","1,596","1,238",78%,"457,863",0,0
+18,2016-10,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,524","924,261","110,976","67,642",61%,"31,343,627",0,0
+19,2016-10,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",260,"85,857","18,980","16,516",87%,"4,639,259","3,879",0
+20,2016-10,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",1,258,50,38,76%,"13,500",0,0
+21,2016-10,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",973,"925,949","139,223","121,669",87%,"33,653,800","212,319",0
+22,2016-10,Spirit Air Lines (Domestic),"New York, NY (LGA)",323,"273,320","62,350","50,929",82%,"12,441,600",0,0
+23,2016-10,Trans States Airlines (Domestic),"New York, NY (LGA)",777,"366,966","38,850","29,861",77%,"8,638,686",0,0
+24,2016-10,United Air Lines Inc. (Domestic),"New York, NY (LGA)",781,"862,430","113,223","102,645",91%,"29,001,286","10,070",0
+25,2016-10,Virgin America (Domestic),"New York, NY (LGA)",108,"149,148","12,942","10,496",81%,"4,082,877",0,0
+26,2016-10,Westjet (International),"New York, NY (LGA)",204,"72,828","25,533","19,279",76%,"6,235,588",0,0
+1,2016-11,Air Canada (International),"New York, NY (LGA)",359,"126,975","42,747","34,499",81%,"10,989,706","10,177",0
+2,2016-11,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",474,"219,320","23,700","15,424",65%,"5,801,760","6,734",92
+3,2016-11,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,942","1,456,945","283,113","230,361",81%,"73,796,200","248,270","2,586"
+4,2016-11,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,888","1,543,262","271,607","233,344",86%,"66,969,764","272,884",0
+5,2016-11,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",5,"2,698",870,147,17%,"235,000",0,0
+6,2016-11,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,124","1,226,202","148,467","112,647",76%,"41,196,254",379,0
+7,2016-11,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",988,"517,924","62,486","44,600",71%,"16,251,060",385,0
+8,2016-11,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"104,340","16,200","14,336",88%,"3,271,200",0,0
+9,2016-11,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",399,"255,874","27,966","19,934",71%,"7,057,230",0,0
+10,2016-11,Jazz Aviation LP (International),"New York, NY (LGA)",73,"23,871","3,650","2,563",70%,"1,094,999",0,0
+11,2016-11,JetBlue Airways (Domestic),"New York, NY (LGA)",508,"395,231","68,500","58,604",86%,"17,274,400",0,0
+12,2016-11,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",60,"18,488","4,242","4,002",94%,"1,105,520",0,0
+13,2016-11,Miami Air International (Domestic),"New York, NY (LGA)",3,"1,639",462,106,23%,"89,100",0,0
+14,2016-11,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",143,"66,585","7,748","4,938",64%,"1,972,560","4,839",800
+15,2016-11,Republic Airlines (Domestic),"New York, NY (LGA)","1,168","679,417","89,726","60,629",68%,"25,262,579",0,0
+16,2016-11,Republic Airlines (Latin America),"New York, NY (LGA)",28,"9,996","2,128","1,197",56%,"610,484",0,0
+17,2016-11,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,476","947,072","107,623","67,242",62%,"30,410,945",0,0
+18,2016-11,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",177,"58,041","12,922","10,920",85%,"3,287,807","4,193",0
+19,2016-11,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",3,"2,199",228,219,96%,"45,600",0,0
+20,2016-11,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",895,"852,981","128,811","116,027",90%,"31,167,000","241,205",0
+21,2016-11,Spirit Air Lines (Domestic),"New York, NY (LGA)",328,"277,204","62,601","51,382",82%,"12,488,800",0,0
+22,2016-11,Tradewind Aviation (Domestic),"New York, NY (LGA)",3,478,24,8,33%,"12,200",0,0
+23,2016-11,Trans States Airlines (Domestic),"New York, NY (LGA)",771,"363,722","38,550","26,994",70%,"8,571,978",0,0
+24,2016-11,United Air Lines Inc. (Domestic),"New York, NY (LGA)",729,"812,061","104,361","95,626",92%,"26,863,045","11,348",0
+25,2016-11,Virgin America (Domestic),"New York, NY (LGA)",109,"150,529","16,077","10,496",65%,"4,053,601",0,0
+26,2016-11,Westjet (International),"New York, NY (LGA)",195,"69,615","23,664","16,297",69%,"5,745,108",0,0
+1,2016-12,Air Canada (International),"New York, NY (LGA)",374,"131,538","42,400","34,937",82%,"10,764,140","7,832",0
+2,2016-12,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",490,"221,651","24,500","16,460",67%,"5,997,600","5,565",14
+3,2016-12,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,734","1,416,317","261,597","211,360",81%,"68,166,560","216,759",0
+4,2016-12,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,155","1,890,354","308,992","256,327",83%,"75,657,326","285,194",0
+5,2016-12,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",3,"3,312",447,150,34%,"98,610",0,0
+6,2016-12,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",2,874,348,43,12%,"94,000",0,0
+7,2016-12,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","1,935","1,060,954","132,883","101,694",77%,"36,709,282",659,0
+8,2016-12,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",787,"423,238","49,459","35,550",72%,"12,376,960",236,0
+9,2016-12,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",87,"100,528","15,660","13,094",84%,"3,154,800",0,0
+10,2016-12,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",215,"132,355","15,086","10,508",70%,"3,816,990",0,0
+11,2016-12,Jazz Aviation LP (International),"New York, NY (LGA)",70,"22,890","3,500","2,579",74%,"1,050,001",0,0
+12,2016-12,JetBlue Airways (Domestic),"New York, NY (LGA)",517,"413,258","69,850","58,285",83%,"17,611,000",0,0
+13,2016-12,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",67,"28,400","4,756","4,400",93%,"1,232,460",0,0
+14,2016-12,Miami Air International (Domestic),"New York, NY (LGA)",2,"1,554",346,47,14%,"85,000",0,0
+15,2016-12,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",147,"68,605","7,965","5,273",66%,"2,022,760","2,721",0
+16,2016-12,Republic Airlines (Domestic),"New York, NY (LGA)","1,040","592,201","80,281","55,936",70%,"22,526,015",0,0
+17,2016-12,Republic Airlines (Latin America),"New York, NY (LGA)",26,"9,282","1,976","1,278",65%,"566,878",0,0
+18,2016-12,Shuttle America Corp. (Domestic),"New York, NY (LGA)","1,422","922,333","103,776","69,414",67%,"29,328,468",0,0
+19,2016-12,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",177,"58,635","12,918","11,339",88%,"3,178,967","2,121",0
+20,2016-12,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",38,"27,854","2,888","2,746",95%,"577,600",0,0
+21,2016-12,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",896,"854,564","129,018","116,944",91%,"31,216,800","175,100",0
+22,2016-12,Spirit Air Lines (Domestic),"New York, NY (LGA)",337,"284,602","64,303","51,965",81%,"31,910,600",0,0
+23,2016-12,"Swift Air, LLC (Domestic)","New York, NY (LGA)",1,660,150,40,27%,"34,723",0,0
+24,2016-12,Trans States Airlines (Domestic),"New York, NY (LGA)",743,"361,634","37,150","26,589",72%,"8,260,674",0,0
+25,2016-12,United Air Lines Inc. (Domestic),"New York, NY (LGA)",683,"790,937","99,212","90,837",92%,"25,744,854","10,688",0
+26,2016-12,Via Airlines d/b/a Charter Air Transport (Domestic),"New York, NY (LGA)",1,660,50,28,56%,"12,775",0,0
+27,2016-12,Virgin America (Domestic),"New York, NY (LGA)",96,"132,576","11,424","9,616",84%,"3,630,912",0,0
+28,2016-12,VistaJet Limited (International),"New York, NY (LGA)",1,"5,614",14,4,29%,"2,801",0,0
+29,2016-12,Westjet (International),"New York, NY (LGA)",191,"68,187","23,487","17,429",74%,"5,708,975",0,0
+1,2017-1,Air Canada (International),"New York, NY (LGA)",380,"133,713","42,503","30,176",71%,"10,703,677","8,653",0
+2,2017-1,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",235,"103,917","11,750","5,598",48%,"2,876,400",196,0
+3,2017-1,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,763","1,365,289","258,537","192,575",74%,"67,245,850","193,198",85
+4,2017-1,Chartright Air Inc. (International),"New York, NY (LGA)",1,324,8,1,13%,"2,400",0,0
+5,2017-1,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,918","1,608,388","277,521","213,273",77%,"67,757,155","253,816",0
+6,2017-1,Delta Air Lines Inc. (Latin America),"New York, NY (LGA)",1,"1,104",149,95,64%,"32,870",0,0
+7,2017-1,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,100","1,130,443","143,213","85,359",60%,"39,491,942",240,0
+8,2017-1,Envoy Air (Domestic),"New York, NY (LGA)",297,"142,216","14,850","7,020",47%,"3,667,950",776,0
+9,2017-1,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,009","564,964","64,019","33,692",53%,"16,406,360",31,0
+10,2017-1,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",60,"57,646","10,800","9,003",83%,"2,168,400",0,0
+11,2017-1,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",23,"15,708","1,616","1,169",72%,"410,170",0,0
+12,2017-1,Jazz Aviation LP (International),"New York, NY (LGA)",70,"22,890","3,500","1,881",54%,"1,050,001",0,0
+13,2017-1,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",1,"1,035",8,5,63%,"1,600",0,0
+14,2017-1,JetBlue Airways (Domestic),"New York, NY (LGA)",513,"397,941","67,700","56,583",84%,"17,114,200",0,0
+15,2017-1,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",65,"22,007","4,604","4,184",91%,"1,196,740",0,0
+16,2017-1,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",161,"77,548","9,172","5,093",56%,"2,373,350","1,616",0
+17,2017-1,Republic Airlines (Domestic),"New York, NY (LGA)","2,623","1,602,702","194,895","100,213",51%,"55,204,817",0,0
+18,2017-1,Republic Airlines (Latin America),"New York, NY (LGA)",23,"8,211","1,752",979,56%,"501,469",0,0
+19,2017-1,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",138,"45,240","10,073","7,341",73%,"2,480,316","2,997",0
+20,2017-1,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",42,"30,786","3,192","2,953",93%,"638,400",0,0
+21,2017-1,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",886,"843,244","128,158","95,835",75%,"30,998,000","212,540",0
+22,2017-1,Spirit Air Lines (Domestic),"New York, NY (LGA)",319,"268,746","60,852","47,862",79%,"12,111,400",0,0
+23,2017-1,Trans States Airlines (Domestic),"New York, NY (LGA)",663,"316,932","33,150","18,271",55%,"7,371,234",0,0
+24,2017-1,United Air Lines Inc. (Domestic),"New York, NY (LGA)",613,"735,808","88,224","73,848",84%,"22,510,158","8,065",0
+25,2017-1,Virgin America (Domestic),"New York, NY (LGA)",97,"133,957","11,543","7,838",68%,"3,668,734",0,0
+26,2017-1,Westjet (International),"New York, NY (LGA)",185,"66,045","22,572","13,761",61%,"5,484,538",0,0
+1,2017-2,Air Canada (International),"New York, NY (LGA)",318,"112,338","35,932","27,179",76%,"9,226,972","6,945",0
+2,2017-2,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",80,"31,400","4,000","1,712",43%,"979,200",560,0
+3,2017-2,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,611","1,212,606","233,299","172,044",74%,"60,860,020","185,985",1
+4,2017-2,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airli","New York, NY (LGA)",3,"2,546",465,61,13%,"105,000",0,0
+5,2017-2,CFM Inc d/b/a Contour Airlines (Domestic),"New York, NY (LGA)",1,"2,197",13,9,69%,"3,770",0,0
+6,2017-2,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,735","1,460,241","254,494","195,012",77%,"62,343,278","219,754",0
+7,2017-2,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,005","1,116,122","137,615","89,898",65%,"38,007,376",313,0
+8,2017-2,Envoy Air (Domestic),"New York, NY (LGA)",390,"185,138","19,526","10,042",51%,"4,825,400","1,566",0
+9,2017-2,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)",965,"539,788","61,581","35,744",58%,"15,672,440",17,0
+10,2017-2,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",54,"50,166","9,720","8,212",84%,"1,956,000",0,0
+11,2017-2,Gulf And Caribbean Cargo (Domestic),"New York, NY (LGA)",1,762,0,0,-,"57,000",982,0
+12,2017-2,Jazz Aviation LP (International),"New York, NY (LGA)",61,"19,947","3,050","1,874",61%,"915,000",0,0
+13,2017-2,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",2,"1,755",25,8,32%,"12,060",0,0
+14,2017-2,"Jet Aviation Flight Services, Inc. (International)","New York, NY (LGA)",1,"3,929",13,1,8%,"6,500",0,0
+15,2017-2,JetBlue Airways (Domestic),"New York, NY (LGA)",455,"354,523","60,050","47,396",79%,"15,180,200",0,0
+16,2017-2,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",59,"21,820","4,184","3,768",90%,"1,085,740",0,0
+17,2017-2,Miami Air International (Domestic),"New York, NY (LGA)",1,660,154,35,23%,"29,700",0,0
+18,2017-2,Piedmont Airlines (Domestic),"New York, NY (LGA)",12,"1,152",600,377,63%,"153,300",49,0
+19,2017-2,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",158,"74,398","9,009","5,203",58%,"2,317,990","2,099",21
+20,2017-2,Republic Airlines (Domestic),"New York, NY (LGA)","2,292","1,362,976","169,807","86,724",51%,"48,248,280",0,0
+21,2017-2,Republic Airlines (Latin America),"New York, NY (LGA)",10,"3,570",760,416,55%,"218,030",0,0
+22,2017-2,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",144,"47,151","10,508","7,872",75%,"2,657,763","3,483",0
+23,2017-2,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",64,"46,912","4,864","4,500",93%,"972,800",0,0
+24,2017-2,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",793,"752,255","114,935","84,867",74%,"27,821,800","180,550",0
+25,2017-2,Spirit Air Lines (Domestic),"New York, NY (LGA)",289,"243,081","55,089","43,632",79%,"11,026,200",0,0
+26,2017-2,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,229,8,3,38%,"3,450",0,0
+27,2017-2,Trans States Airlines (Domestic),"New York, NY (LGA)",622,"288,573","31,100","18,763",60%,"6,915,396",0,0
+28,2017-2,United Air Lines Inc. (Domestic),"New York, NY (LGA)",554,"665,337","81,362","66,572",82%,"20,539,025","8,485",0
+29,2017-2,Virgin America (Domestic),"New York, NY (LGA)",89,"122,909","10,648","7,610",71%,"3,364,892",0,0
+30,2017-2,Westjet (International),"New York, NY (LGA)",168,"59,976","20,951","13,412",64%,"5,098,638",0,0
+1,2017-3,Air Canada (International),"New York, NY (LGA)",381,"134,169","42,742","33,896",79%,"10,559,070","8,779",0
+2,2017-3,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",17,"5,695",850,462,54%,"208,080",0,0
+3,2017-3,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,795","1,360,659","263,050","214,419",82%,"69,125,420","226,299","22,449"
+4,2017-3,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airli","New York, NY (LGA)",4,"1,828",620,163,26%,"140,000",0,0
+5,2017-3,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,211","1,889,488","331,415","277,521",84%,"84,300,812","221,554",0
+6,2017-3,Eastern Airlines Group Inc. (Domestic),"New York, NY (LGA)",2,"2,172",156,24,15%,"94,000",0,0
+7,2017-3,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,182","1,201,976","151,781","110,290",73%,"42,056,284",689,0
+8,2017-3,Envoy Air (Domestic),"New York, NY (LGA)","1,004","453,496","50,200","31,902",64%,"12,399,400","9,251",0
+9,2017-3,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,304","693,974","83,038","56,464",68%,"21,225,220",176,0
+10,2017-3,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",59,"54,644","10,620","9,244",87%,"2,142,000",0,0
+11,2017-3,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",1,431,70,0,0%,"17,610",0,0
+12,2017-3,Jazz Aviation LP (International),"New York, NY (LGA)",51,"16,677","2,550","1,554",61%,"764,999",0,0
+13,2017-3,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",1,"5,021",12,8,67%,"2,400",0,0
+14,2017-3,"Jet Aviation Flight Services, Inc. (International)","New York, NY (LGA)",1,"3,441",12,0,0%,"2,400",0,0
+15,2017-3,JetBlue Airways (Domestic),"New York, NY (LGA)",504,"390,501","66,250","54,068",82%,"16,755,200",0,0
+16,2017-3,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",62,"23,694","4,388","4,068",93%,"1,141,880",0,0
+17,2017-3,Piedmont Airlines (Domestic),"New York, NY (LGA)",26,"2,496","1,300",934,72%,"314,730",158,0
+18,2017-3,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",187,"86,703","10,511","7,560",72%,"2,706,750","1,248",0
+19,2017-3,Republic Airlines (Domestic),"New York, NY (LGA)","2,652","1,606,658","196,374","125,675",64%,"55,785,595",0,0
+20,2017-3,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",137,"44,784","9,987","7,936",79%,"2,486,217","3,771",0
+21,2017-3,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",94,"68,902","7,144","6,756",95%,"1,428,800",0,0
+22,2017-3,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",865,"824,904","124,905","107,961",86%,"30,241,800","223,129",0
+23,2017-3,Spirit Air Lines (Domestic),"New York, NY (LGA)",320,"269,191","60,882","52,574",86%,"12,197,200",0,0
+24,2017-3,Trans States Airlines (Domestic),"New York, NY (LGA)",157,"77,954","7,850","5,488",70%,"1,745,526",0,0
+25,2017-3,United Air Lines Inc. (Domestic),"New York, NY (LGA)",646,"774,949","96,202","85,886",89%,"24,482,062","8,246",0
+26,2017-3,Virgin America (Domestic),"New York, NY (LGA)",85,"117,385","10,169","8,070",79%,"3,213,604",0,0
+27,2017-3,Westjet (International),"New York, NY (LGA)",188,"67,116","23,135","16,541",71%,"5,619,779",0,0
+1,2017-4,Air Canada (International),"New York, NY (LGA)",395,"137,718","46,166","40,218",87%,"11,727,980","8,771",0
+2,2017-4,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",20,"6,700","1,000",598,60%,"244,800",0,0
+3,2017-4,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,758","1,339,025","259,267","218,595",84%,"67,983,900","305,494","108,683"
+4,2017-4,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,054","1,730,457","311,131","259,980",84%,"78,849,590","208,270",0
+5,2017-4,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,368","1,320,254","167,075","126,025",75%,"46,460,746",535,0
+6,2017-4,Envoy Air (Domestic),"New York, NY (LGA)","1,142","512,644","57,100","39,320",69%,"14,103,700","21,629",10
+7,2017-4,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,012","514,020","64,422","46,538",72%,"16,568,780",35,0
+8,2017-4,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",70,"66,830","12,300","10,865",88%,"2,474,400",0,0
+9,2017-4,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",1,479,12,0,0%,"2,400",0,0
+10,2017-4,"Jet Aviation Flight Services, Inc. (International)","New York, NY (LGA)",1,357,12,1,8%,"2,400",0,0
+11,2017-4,JetBlue Airways (Domestic),"New York, NY (LGA)",495,"385,444","65,150","54,368",83%,"16,474,600",0,0
+12,2017-4,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",80,"20,694","5,612","5,244",93%,"1,478,720",0,0
+13,2017-4,Piedmont Airlines (Domestic),"New York, NY (LGA)",24,"2,304","1,200",910,76%,"306,600",23,0
+14,2017-4,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",190,"84,438","10,722","8,164",76%,"2,764,310","6,065",0
+15,2017-4,Republic Airlines (Domestic),"New York, NY (LGA)","2,660","1,652,249","196,998","132,741",67%,"55,960,019",0,0
+16,2017-4,Sky Regional Airlines Inc. (International),"New York, NY (LGA)",113,"37,107","8,249","6,990",85%,"1,977,974",757,0
+17,2017-4,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",110,"79,998","8,360","7,889",94%,"1,672,000",0,0
+18,2017-4,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",866,"830,438","124,990","107,534",86%,"30,256,400","226,860",0
+19,2017-4,Spirit Air Lines (Domestic),"New York, NY (LGA)",321,"268,872","61,630","52,769",86%,"12,332,200",0,0
+20,2017-4,Trans States Airlines (Domestic),"New York, NY (LGA)",7,"3,704",350,262,75%,"77,826",0,0
+21,2017-4,United Air Lines Inc. (Domestic),"New York, NY (LGA)",633,"753,543","93,282","82,844",89%,"23,940,635","16,327",0
+22,2017-4,Virgin America (Domestic),"New York, NY (LGA)",74,"102,194","8,806","7,831",89%,"2,798,828",0,0
+23,2017-4,Westjet (International),"New York, NY (LGA)",171,"61,047","21,865","17,477",80%,"5,322,667",0,0
+1,2017-5,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",24,"8,040","1,200",934,78%,"293,760",0,0
+2,2017-5,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,909","1,433,670","282,527","241,921",86%,"74,210,640","143,148","87,033"
+3,2017-5,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","2,130","1,761,105","323,540","277,328",86%,"82,286,498","223,762",0
+4,2017-5,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,159","1,231,919","152,801","120,884",79%,"42,524,952",966,0
+5,2017-5,Envoy Air (Domestic),"New York, NY (LGA)","1,011","463,686","50,550","36,269",72%,"12,485,850","15,683",0
+6,2017-5,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,047","556,653","66,201","50,215",76%,"17,216,300",0,0
+7,2017-5,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"90,222","15,240","13,400",88%,"3,084,000",0,0
+8,2017-5,GoJet Airlines LLC d/b/a United Express (Domestic),"New York, NY (LGA)",1,888,70,36,51%,"17,610",0,0
+9,2017-5,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",1,11,8,0,0%,"3,400",0,0
+10,2017-5,JetBlue Airways (Domestic),"New York, NY (LGA)",492,"379,877","64,750","53,981",83%,"16,373,600",0,0
+11,2017-5,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",66,"24,610","4,668","4,320",93%,"1,215,880",0,0
+12,2017-5,Miami Air International (Domestic),"New York, NY (LGA)",1,733,173,157,91%,"42,500",0,0
+13,2017-5,Piedmont Airlines (Domestic),"New York, NY (LGA)",25,"2,400","1,250",881,70%,"319,375",25,0
+14,2017-5,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",204,"93,550","11,513","9,340",81%,"2,969,520","2,542",0
+15,2017-5,Republic Airlines (Domestic),"New York, NY (LGA)","2,862","1,798,035","211,038","146,938",70%,"59,876,245",0,0
+16,2017-5,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",104,"76,232","7,904","7,492",95%,"1,580,800",0,0
+17,2017-5,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",910,"863,420","131,122","117,152",89%,"31,754,000","216,712",0
+18,2017-5,Spirit Air Lines (Domestic),"New York, NY (LGA)",300,"255,437","59,312","53,072",89%,"11,867,400",0,0
+19,2017-5,Tradewind Aviation (Domestic),"New York, NY (LGA)",1,168,8,2,25%,"3,450",0,0
+20,2017-5,Trans States Airlines (Domestic),"New York, NY (LGA)",47,"10,763","2,350","2,062",88%,"522,546",0,0
+21,2017-5,United Air Lines Inc. (Domestic),"New York, NY (LGA)",678,"796,664","100,797","90,731",90%,"25,638,855","51,180",96
+22,2017-5,Virgin America (Domestic),"New York, NY (LGA)",81,"111,861","9,639","8,507",88%,"3,063,582",0,0
+1,2017-6,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",49,"15,440","2,450","1,868",76%,"599,760",0,0
+2,2017-6,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,769","1,360,381","266,495","221,866",83%,"70,294,500","171,984","82,269"
+3,2017-6,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,996","1,719,802","296,457","248,906",84%,"75,336,351","232,669",0
+4,2017-6,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,058","1,144,687","145,298","115,544",80%,"40,407,262",73,0
+5,2017-6,Envoy Air (Domestic),"New York, NY (LGA)",970,"449,001","48,513","35,622",73%,"11,983,950","14,544",888
+6,2017-6,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,223","684,864","77,635","60,733",78%,"20,361,800",0,0
+7,2017-6,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",90,"89,010","15,300","13,983",91%,"3,099,600",0,0
+8,2017-6,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",1,62,13,0,0%,"2,600",0,0
+9,2017-6,JetBlue Airways (Domestic),"New York, NY (LGA)",482,"368,684","63,400","49,289",78%,"16,033,200",0,0
+10,2017-6,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",103,"36,644","7,276","6,564",90%,"1,898,460",0,0
+11,2017-6,Miami Air International (Domestic),"New York, NY (LGA)",2,833,346,70,20%,"85,000",0,0
+12,2017-6,Piedmont Airlines (Domestic),"New York, NY (LGA)",30,"2,880","1,500","1,198",80%,"383,250",103,0
+13,2017-6,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",198,"91,105","11,243","9,072",81%,"2,904,510","2,097",340
+14,2017-6,Republic Airlines (Domestic),"New York, NY (LGA)","2,926","1,818,266","216,157","146,024",68%,"61,377,366",0,0
+15,2017-6,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",99,"72,567","7,524","7,277",97%,"1,504,800",0,0
+16,2017-6,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",905,"873,721","130,343","119,773",92%,"31,532,200","227,864",0
+17,2017-6,Spirit Air Lines (Domestic),"New York, NY (LGA)",305,"256,827","59,924","51,936",87%,"12,000,600",0,0
+18,2017-6,Trans States Airlines (Domestic),"New York, NY (LGA)",10,"2,290",500,457,91%,"111,180",0,0
+19,2017-6,United Air Lines Inc. (Domestic),"New York, NY (LGA)",737,"859,960","114,782","106,418",93%,"28,263,975","20,619",0
+20,2017-6,Virgin America (Domestic),"New York, NY (LGA)",77,"106,337","9,163","8,374",91%,"2,912,294",0,0
+1,2017-7,Air Wisconsin Airlines Corp (Domestic),"New York, NY (LGA)",51,"16,110","2,550","1,798",71%,"624,240",0,780
+2,2017-7,American Airlines Inc. (Domestic),"New York, NY (LGA)","1,757","1,376,659","267,670","222,805",83%,"70,634,510","209,844","83,730"
+3,2017-7,Delta Air Lines Inc. (Domestic),"New York, NY (LGA)","1,946","1,716,052","282,791","247,603",88%,"71,960,469","191,031",0
+4,2017-7,Endeavor Air Inc. (Domestic),"New York, NY (LGA)","2,019","1,116,279","143,238","112,763",79%,"39,883,754",83,0
+5,2017-7,Envoy Air (Domestic),"New York, NY (LGA)",945,"434,516","47,250","33,460",71%,"11,670,750","18,983",0
+6,2017-7,ExpressJet Airlines Inc. (Domestic),"New York, NY (LGA)","1,133","639,124","71,986","53,674",75%,"18,827,160",0,0
+7,2017-7,Frontier Airlines Inc. (Domestic),"New York, NY (LGA)",93,"91,977","15,810","14,069",89%,"3,200,400",0,0
+8,2017-7,"Jet Aviation Flight Services, Inc. (Domestic)","New York, NY (LGA)",1,65,14,2,14%,"2,800",0,0
+9,2017-7,JetBlue Airways (Domestic),"New York, NY (LGA)",488,"378,723","64,550","49,769",77%,"16,313,600",0,0
+10,2017-7,Mesa Airlines Inc. (Domestic),"New York, NY (LGA)",106,"46,827","7,546","6,868",91%,"1,947,560",0,0
+11,2017-7,Miami Air International (Domestic),"New York, NY (LGA)",3,"2,199",549,467,85%,"127,500",0,0
+12,2017-7,Piedmont Airlines (Domestic),"New York, NY (LGA)",26,"2,496","1,300","1,059",81%,"332,150",107,0
+13,2017-7,PSA Airlines Inc. (Domestic),"New York, NY (LGA)",189,"85,428","10,594","7,980",75%,"2,719,000","3,922",0
+14,2017-7,Republic Airlines (Domestic),"New York, NY (LGA)","2,730","1,700,927","201,501","129,104",64%,"57,193,441",0,0
+15,2017-7,SkyWest Airlines Inc. (Domestic),"New York, NY (LGA)",85,"62,305","6,460","6,092",94%,"1,292,000",0,0
+16,2017-7,Southwest Airlines Co. (Domestic),"New York, NY (LGA)",920,"891,038","132,712","120,340",91%,"32,132,000","222,939",0
+17,2017-7,Spirit Air Lines (Domestic),"New York, NY (LGA)",319,"268,141","62,778","54,623",87%,"30,619,000",0,0
+18,2017-7,United Air Lines Inc. (Domestic),"New York, NY (LGA)",721,"833,946","110,464","98,988",90%,"27,362,955","21,441",0
+19,2017-7,Virgin America (Domestic),"New York, NY (LGA)",77,"106,337","9,163","7,947",87%,"2,912,294",0,0
