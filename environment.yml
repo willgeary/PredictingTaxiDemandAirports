@@ -102,6 +102,10 @@ dependencies:
   - chardet==3.0.4
   - colorlover==0.2.1
   - cufflinks==0.12.0
+  - dash==0.19.0
+  - dash-renderer==0.11.1
+  - dash-html-components==0.8.0
+  - dash-core-components==0.14.0
   - idna==2.6
   - ipython-genutils==0.2.0
   - jupyter-client==5.1.0
@@ -109,6 +113,7 @@ dependencies:
   - jupyter-core==4.3.0
   - mlxtend==0.9.1
   - pandas-datareader==0.5.0
+  - plotly
   - prompt-toolkit==1.0.15
   - pyowm==2.7.1
   - requests-file==1.4.2
