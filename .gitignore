@@ -1,7 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
 taxidata/
-gridSearch_models/
+*.pkl
 notebooks/Animating Domestic Flights to LGA.ipynb
 sketches/taxiTrips/data/yellow_2016_02.csv
 sketches/taxiTrips/data/flights_to_LGA_since_2016.csv
