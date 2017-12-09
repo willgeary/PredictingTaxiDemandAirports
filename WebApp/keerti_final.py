@@ -17,7 +17,7 @@ from pandas.tseries.holiday import USFederalHolidayCalendar as calendar
 from sklearn.externals import joblib
 # from datetime import datetime as dt
 
-df = pd.read_csv('../PredictingTaxiDemandAirports/clean_data/FinalData_for_Models.csv')
+df = pd.read_csv('../clean_data/FinalData_for_Models.csv')
 loaded_model = joblib.load("../model_stack_noxgb.pkl")
 
 # Multi-dropdown options
