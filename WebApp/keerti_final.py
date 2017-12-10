@@ -18,8 +18,9 @@ from sklearn.externals import joblib
 # from datetime import datetime as dt
 
 df = pd.read_csv('../clean_data/FinalData_for_Models.csv')
-loaded_model = joblib.load("../model_stack_noxgb.pkl")
-
+loaded_model = joblib.load("../model_rfgbtxgb_la.pkl")
+hourly_biases = pd.read_csv('../clean_data/biases_per_hour.csv', index_col = 0)
+hourly_biases = hourly_biases.values
 # Multi-dropdown options
 # from controls import COUNTIES, WELL_STATUSES, WELL_TYPES, WELL_COLORS
 app = dash.Dash()  # noqa: E501
@@ -67,7 +68,7 @@ app.layout = html.Div(
         html.Div(
             [
                 html.H1(
-                    'Estimating Taxi Demand at LaGaurdia Airport',
+                    'Estimating Taxi Demand at LaGuardia Airport',
                     className='ten columns',
                 ),
                 # html.Img(
@@ -124,10 +125,10 @@ app.layout = html.Div(
                     min=0,
                     max=23,
                     marks={i: '{}'.format(i) for i in range(0, 24)},
-                    value=10                
+                    value=10
                 ),
             ], className='six columns',
-            style={'margin-top': '20', 'margin-bottom': '30px'}
+            style={'margin-top': '20', 'margin-bottom': '30px', 'position':'relative'}
         ),
         html.Div(
             [
@@ -211,8 +212,8 @@ app.layout = html.Div(
                     className='five columns', style={'margin-left':'600px', 'margin-top': '-65px', 'display':'block', 'margin-bottom': '40px'}
                 ),
         html.Div(
-            [   
-                html.P('Number of Pickups', style={'font-size': '2.0rem', 'margin-bottom':'-30px'}),
+            [
+                html.P('Number of Pickups', style={'font-size': '2.0rem', 'margin-bottom':'-30px', 'position':'fixed'}),
                 html.Div(id='Prediction',
                     className='three columns',
                     style={'margin-top': '20', 'font-size': '6.0rem', 'color': '#003406'}
@@ -224,7 +225,7 @@ app.layout = html.Div(
                     ],
                     className='nine columns',
                     style={'margin-top': '20'}
-                ),   
+                ),
             ],
             className='row'
         ),
@@ -272,41 +273,45 @@ def update_prediction(date, precipitation, weather, temp, hour):
     new_date = pd.to_datetime(date, format='%Y-%m-%d')
     month = new_date.month
     #array
-    months = month_format(month)
-    
+#    months = month_format(month)
+    months = np.array([month])
     day = new_date.dayofweek
     #array
-    days = day_format(day)
-    
+    #days = day_format(day)
+
+    days = np.array([day])
+
     #array
     weather_dummies = weather_format(weather)
-    
+
     #Converting Fahrenheit to Python
     if temp == '':
         temp = 0.0
-    
+
     temp_K = np.array([(float(temp) + 459.67)*(5.0/9.0)])
-    
+
     #array
-    hours = hour_format(hour)
-    
+    #hours = hour_format(hour)
+
+    hours = np.array([hour])
+
     hol = is_holiday(date)
-    
+
     #Getting average humidity at give month, day, hour
     humidity = np.array([df.loc[(df.Month == month) & (df.Day == day) & (df.Hour == hour), 'humidity'].mean()])
     wind_speed = np.array([df.loc[(df.Month == month) & (df.Day == day) & (df.Hour == hour), 'wind_speed'].mean()])
-    
+
     #Getting average passengers and delays at given day, hour, holiday
     flight_info = df.loc[(df.Hour == hour) & (df.Day == day) & (df.holiday == hol), ['Passengers', 'Avg_Delay_Arriving', 'Cancelled_Departing_Flights']].mean()
     passengers, delays, cancellations = flight_info.values
-    
+
     #Taking edge cases in case day = 0 or hour = 0 when solving prev hour info
     last_day = day
     last_2day = day
-    
+
     last_hour = hour - 1
     last_2hour = hour - 2
-    
+
     if hour == 0:
         last_hour = 23
         last_2hour = 22
@@ -316,32 +321,32 @@ def update_prediction(date, precipitation, weather, temp, hour):
         else:
             last_day = day-1
             last_2day = day-1
-    
+
     if hour == 1:
         last_2hour = 23
         if day == 0:
             last_2day = 6
         else:
             last_2day = day-1
-        
-    
+
+
     #Getting previous hours passenger info at given day, hour, holiday
     prev_hour_pass = np.array([df.loc[(df.Hour == last_hour) & (df.Day == last_day) & (df.holiday == hol), 'Passengers'].mean()])
     prev_2hour_pass = np.array([df.loc[(df.Hour == last_2hour) & (df.Day == last_2day) & (df.holiday == hol), 'Passengers'].mean()])
-    
-    
+
+
     hol_array = np.array([int(hol)])
-    
+
     precipitation = np.array([precipitation])
-    
+
     #Putting it in the right order
-    feature_vect = np.concatenate((temp_K, humidity, wind_speed, np.array([passengers]), hol_array, precipitation, 
-                                  np.array([delays]), np.array([cancellations]), weather_dummies, prev_hour_pass, 
-                                  prev_2hour_pass, months, hours, days))
+    feature_vect = np.concatenate((temp_K, humidity, wind_speed, np.array([passengers]), months, hours, days, hol_array, precipitation,
+                                  np.array([delays]), np.array([cancellations]), weather_dummies, prev_hour_pass,
+                                  prev_2hour_pass))
     #reshaping to be 2D
     feature_vect = feature_vect.reshape(1, len(feature_vect))
 
-    return ('{}'.format(int(loaded_model.predict(feature_vect))))
+    return ('{}'.format(int(max(loaded_model.predict(feature_vect), 0)+hourly_biases[hour])))
 
 
 
@@ -350,20 +355,20 @@ def update_prediction(date, precipitation, weather, temp, hour):
 #     [dash.dependencies.Input('my-date-picker-single', 'date'),
 #      dash.dependencies.Input('hour', 'value')])
 # def update_graph(date, hour):
-    
+
 #     new_date = pd.to_datetime(date, format='%Y-%m-%d')
 #     month = new_date.month
 #     day = new_date.dayofweek
-    
-#     actual = df.loc[(df.Month == month) & (df.Day == day) & (df.Hour == hour), ['Unnamed: 0', 'num_pickups']]    
-#     actual.iloc[:,0] = pd.to_datetime(actual.iloc[:,0]).apply(lambda x: x.date())    
-    
+
+#     actual = df.loc[(df.Month == month) & (df.Day == day) & (df.Hour == hour), ['Unnamed: 0', 'num_pickups']]
+#     actual.iloc[:,0] = pd.to_datetime(actual.iloc[:,0]).apply(lambda x: x.date())
+
 #     return  {'data': [
 #                 {'x': str(actual.iloc[:,0]), 'y': actual['num_pickups'], 'type': 'bar', 'name': 'actual'}]}
-    
 
 
-    
+
+
 @app.callback(
     dash.dependencies.Output('predict_graph', 'figure'),
     [dash.dependencies.Input('my-date-picker-single', 'date'),
@@ -376,22 +381,22 @@ def update_prediction_graph(date, precipitation, weather, temp, hour):
     layout_pred = copy.deepcopy(layout)
 
     new_date = pd.to_datetime(date, format='%Y-%m-%d')
-    
-    axis_hours = ["{} hour".format((hour+i)%23) for i in range(7) ]
-    print(axis_hours)
+
+    axis_hours = ["{} hour".format((hour+i)%24) for i in range(7) ]
+#    print(axis_hours)
 
     prediction_list = []
     my_hours = np.zeros(7)
-    
+
     #take each of the 6 hours
     for i in range(7):
         my_hours[i] = hour + i
         #check end of day edge case
         if my_hours[i] > 23:
             my_hours[i] = my_hours[i] - 24
-            prediction_list.append(update_featurevect(new_date + pd.DateOffset(1), precipitation, weather, temp, my_hours[i]))
+            prediction_list.append(update_featurevect(new_date + pd.DateOffset(1), precipitation, weather, temp, int(my_hours[i])))
         else:
-            prediction_list.append(update_featurevect(new_date, precipitation, weather, temp, my_hours[i]))
+            prediction_list.append(update_featurevect(new_date, precipitation, weather, temp, int(my_hours[i])))
 
     data= [dict(x=axis_hours, y=prediction_list, type= 'line')]
 
@@ -399,53 +404,58 @@ def update_prediction_graph(date, precipitation, weather, temp, hour):
     # layout_pred['dragmode'] = 'select'
     layout_pred['showlegend'] = False
     # layout_pred['xaxis'] = 'Hours'
-    layout_pred['yaxis'] = dict(range=[0,1300])
+    layout_pred['yaxis'] = dict(range=[0,1000])
 
     figure = dict(data=data, layout=layout_pred)
 
     return figure
-    
+
 
 def update_featurevect(date, precipitation, weather, temp, hour):
     new_date = date
-    
+
     month = new_date.month
     #array
-    months = month_format(month)
-    
+    #months = month_format(month)
+
+    months = np.array([month])
+
     day = new_date.dayofweek
     #array
-    days = day_format(day)
-    
+    #days = day_format(day)
+
+    days = np.array([day])
+
     #array
     weather_dummies = weather_format(weather)
-    
+
     #Converting Fahrenheit to Python
     if temp == '':
         temp = 0.0
-    
+
     temp_K = np.array([(float(temp) + 459.67)*(5.0/9.0)])
-    
+
     #array
-    hours = hour_format(hour)
-    
+    #hours = hour_format(hour)
+    hours = np.array([hour])
+
     hol = is_holiday(date)
-    
+
     #Getting average humidity at give month, day, hour
     humidity = np.array([df.loc[(df.Month == month) & (df.Day == day) & (df.Hour == hour), 'humidity'].mean()])
     wind_speed = np.array([df.loc[(df.Month == month) & (df.Day == day) & (df.Hour == hour), 'wind_speed'].mean()])
-    
+
     #Getting average passengers and delays at given day, hour, holiday
     flight_info = df.loc[(df.Hour == hour) & (df.Day == day) & (df.holiday == hol), ['Passengers', 'Avg_Delay_Arriving', 'Cancelled_Departing_Flights']].mean()
     passengers, delays, cancellations = flight_info.values
-    
+
     #Taking edge cases in case day = 0 or hour = 0 when solving prev hour info
     last_day = day
     last_2day = day
-    
+
     last_hour = hour - 1
     last_2hour = hour - 2
-    
+
     if hour == 0:
         last_hour = 23
         last_2hour = 22
@@ -455,36 +465,36 @@ def update_featurevect(date, precipitation, weather, temp, hour):
         else:
             last_day = day-1
             last_2day = day-1
-    
+
     if hour == 1:
         last_2hour = 23
         if day == 0:
             last_2day = 6
         else:
             last_2day = day-1
-        
-        
-    
-    
-    
+
+
+
+
+
     #Getting previous hours passenger info at given day, hour, holiday
     prev_hour_pass = np.array([df.loc[(df.Hour == last_hour) & (df.Day == last_day) & (df.holiday == hol), 'Passengers'].mean()])
     prev_2hour_pass = np.array([df.loc[(df.Hour == last_2hour) & (df.Day == last_2day) & (df.holiday == hol), 'Passengers'].mean()])
-    
-    
+
+
     hol_array = np.array([int(hol)])
-    
+
     precipitation = np.array([precipitation])
-    
+
     #Putting it in the right order
-    feature_vect = np.concatenate((temp_K, humidity, wind_speed, np.array([passengers]), hol_array, precipitation, 
-                                  np.array([delays]), np.array([cancellations]), weather_dummies, prev_hour_pass, 
-                                  prev_2hour_pass, months, hours, days))
+    feature_vect = np.concatenate((temp_K, humidity, wind_speed, np.array([passengers]), months, hours, days, hol_array, precipitation,
+                                  np.array([delays]), np.array([cancellations]), weather_dummies, prev_hour_pass,
+                                  prev_2hour_pass))
     #reshaping to be 2D
     feature_vect = feature_vect.reshape(1, len(feature_vect))
-    return int(loaded_model.predict(feature_vect))
-    
-    
+    return int(max(loaded_model.predict(feature_vect),0)+hourly_biases[hour])
+
+
 # In[6]:
 
 def day_format(day):
@@ -518,7 +528,7 @@ def weather_format(weather):
     if 'thunderstorm' in weather:
         array[5] = 1
     return array
-        
+
 #clear, clouds, fog, rain, snow, thunderstorm
 
 
