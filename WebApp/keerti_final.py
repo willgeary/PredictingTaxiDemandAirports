@@ -18,7 +18,7 @@ from sklearn.externals import joblib
 # from datetime import datetime as dt
 
 df = pd.read_csv('../clean_data/FinalData_for_Models.csv')
-loaded_model = joblib.load("../model_rfgbtxgb_la.pkl")
+loaded_model = joblib.load("../../model_rfgbtxgb_la.pkl")
 hourly_biases = pd.read_csv('../clean_data/biases_per_hour.csv', index_col = 0)
 hourly_biases = hourly_biases.values
 # Multi-dropdown options
@@ -127,7 +127,7 @@ app.layout = html.Div(
                     marks={i: '{}'.format(i) for i in range(0, 24)},
                     value=10
                 ),
-            ], className='six columns',
+            ], className='five columns',
             style={'margin-top': '20', 'margin-bottom': '30px', 'position':'relative'}
         ),
         html.Div(
@@ -213,7 +213,7 @@ app.layout = html.Div(
                 ),
         html.Div(
             [
-                html.P('Number of Pickups', style={'font-size': '2.0rem', 'margin-bottom':'-30px', 'position':'fixed'}),
+                html.P('Number of Pickups', style={'font-size': '2.0rem', 'margin-bottom':'-100px', 'position':'relative'}),
                 html.Div(id='Prediction',
                     className='three columns',
                     style={'margin-top': '20', 'font-size': '6.0rem', 'color': '#003406'}
@@ -225,32 +225,6 @@ app.layout = html.Div(
                     ],
                     className='nine columns',
                     style={'margin-top': '20'}
-                ),
-            ],
-            className='row'
-        ),
-        html.Div(
-            [
-                html.Div(
-                    [
-                        dcc.Graph(id='count_graph')
-                    ],
-                    className='four columns',
-                    style={'margin-top': '10'}
-                ),
-                html.Div(
-                    [
-                        dcc.Graph(id='pie_graph')
-                    ],
-                    className='four columns',
-                    style={'margin-top': '10'}
-                ),
-                html.Div(
-                    [
-                        dcc.Graph(id='aggregate_graph')
-                    ],
-                    className='four columns',
-                    style={'margin-top': '10'}
                 ),
             ],
             className='row'
