@@ -31,7 +31,7 @@ app.css.append_css({'external_url': 'https://cdn.rawgit.com/plotly/dash-app-styl
 
 
 # Create global chart template
-mapbox_access_token = 'pk.eyJ1IjoiamFja2x1byIsImEiOiJjajNlcnh3MzEwMHZtMzNueGw3NWw5ZXF5In0.fk8k06T96Ml9CLGgKmk81w'  # noqa: E501
+# mapbox_access_token = 'pk.eyJ1IjoiamFja2x1byIsImEiOiJjajNlcnh3MzEwMHZtMzNueGw3NWw5ZXF5In0.fk8k06T96Ml9CLGgKmk81w'  # noqa: E501
 
 layout = dict(
     autosize=True,
@@ -49,15 +49,15 @@ layout = dict(
     paper_bgcolor="#020202",
     legend=dict(font=dict(size=10), orientation='h'),
     title='Satellite Overview',
-    mapbox=dict(
-        accesstoken=mapbox_access_token,
-        style="dark",
-        center=dict(
-            lon=-78.05,
-            lat=42.54
-        ),
-        zoom=7,
-    )
+    # mapbox=dict(
+    #     accesstoken=mapbox_access_token,
+    #     style="dark",
+    #     center=dict(
+    #         lon=-78.05,
+    #         lat=42.54
+    #     ),
+    #     zoom=7,
+    # )
 )
 
 
@@ -69,7 +69,7 @@ app.layout = html.Div(
             [
                 html.H1(
                     'Estimating Taxi Demand at LaGuardia Airport',
-                    className='ten columns',
+                    className='ten columns', style = {'font-weight':'bold'}
                 ),
                 # html.Img(
                 #     src="https://s3-us-west-1.amazonaws.com/plotly-tutorials/logo/new-branding/dash-logo-by-plotly-stripe.png",
@@ -82,7 +82,7 @@ app.layout = html.Div(
                 #     },
                 # ),
             ],
-            className='row', style={'margin-bottom':'20px', 'color' : '#8A2BE2'}
+            className='row', style={'margin-bottom':'20px', 'color' : '#000000'}
         ),
         html.Div(
             [
@@ -173,7 +173,7 @@ app.layout = html.Div(
                         #     value=list([1,2,3]),
                         # ),
                     ],
-                    className='six columns'
+                    className='six columns', style={'margin-bottom':'80px'}
                 ),
             ],
             className='row', style= {'margin-top': '110px'}
@@ -209,21 +209,21 @@ app.layout = html.Div(
                         #     values=[],
                         # )
                     ],
-                    className='five columns', style={'margin-left':'600px', 'margin-top': '-65px', 'display':'block', 'margin-bottom': '40px'}
+                    className='five columns', style={'margin-left':'600px', 'margin-top': '-130px', 'display':'block', 'margin-bottom': '40px'}
                 ),
         html.Div(
             [
-                html.P('Number of Pickups', style={'font-size': '2.0rem', 'margin-bottom':'-100px', 'position':'relative'}),
+                html.P('Estimated Number of Pickups', style={'font-size': '3.0rem', 'margin-bottom':'-400px', 'position':'absolute', 'font-weight':'bold'}),
                 html.Div(id='Prediction',
-                    className='three columns',
-                    style={'margin-top': '20', 'font-size': '6.0rem', 'color': '#003406'}
+                    className='four columns',
+                    style={'margin-top': '20', 'font-size': '16rem', 'color': '#003406', 'align':'center', 'margin-left':'50px'}
 
                 ),
                 html.Div(
                     [
                         dcc.Graph(id='predict_graph')
                     ],
-                    className='nine columns',
+                    className='seven columns',
                     style={'margin-top': '20'}
                 ),
             ],
