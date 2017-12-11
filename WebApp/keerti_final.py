@@ -26,7 +26,7 @@ hourly_biases = hourly_biases.values
 app = dash.Dash()  # noqa: E501
 app.css.append_css({'external_url': 'https://cdn.rawgit.com/plotly/dash-app-stylesheets/2d266c578d2a6e8850ebce48fdb52759b2aef506/stylesheet-oil-and-gas.css'})  # noqa: E501
 
-
+app.title = "LGA Taxi Demand"
 # points = pickle.load(open("data/points.pkl", "rb"))
 
 
@@ -64,7 +64,7 @@ layout = dict(
 # In[]:
 # Create app layout
 app.layout = html.Div(
-    [
+    [   
         html.Div(
             [
                 html.H1(
@@ -305,8 +305,8 @@ def update_prediction(date, precipitation, weather, temp, hour):
 
 
     #Getting previous hours passenger info at given day, hour, holiday
-    prev_hour_pass = np.array([df.loc[(df.Hour == last_hour) & (df.Day == last_day) & (df.holiday == hol), 'Passengers'].mean()])
-    prev_2hour_pass = np.array([df.loc[(df.Hour == last_2hour) & (df.Day == last_2day) & (df.holiday == hol), 'Passengers'].mean()])
+    prev_hour_pass = np.array([df.loc[(df.Hour == last_hour) & (df.Day == last_day), 'Passengers'].mean()])
+    prev_2hour_pass = np.array([df.loc[(df.Hour == last_2hour) & (df.Day == last_2day), 'Passengers'].mean()])
 
 
     hol_array = np.array([int(hol)])
@@ -368,7 +368,7 @@ def update_prediction_graph(date, precipitation, weather, temp, hour):
         #check end of day edge case
         if my_hours[i] > 23:
             my_hours[i] = my_hours[i] - 24
-            prediction_list.append(update_featurevect(new_date + pd.DateOffset(1), precipitation, weather, temp, int(my_hours[i])))
+            prediction_list.append(update_featurevect(new_date + pd.DateOffset(years=1), precipitation, weather, temp, int(my_hours[i])))
         else:
             prediction_list.append(update_featurevect(new_date, precipitation, weather, temp, int(my_hours[i])))
 
@@ -452,8 +452,8 @@ def update_featurevect(date, precipitation, weather, temp, hour):
 
 
     #Getting previous hours passenger info at given day, hour, holiday
-    prev_hour_pass = np.array([df.loc[(df.Hour == last_hour) & (df.Day == last_day) & (df.holiday == hol), 'Passengers'].mean()])
-    prev_2hour_pass = np.array([df.loc[(df.Hour == last_2hour) & (df.Day == last_2day) & (df.holiday == hol), 'Passengers'].mean()])
+    prev_hour_pass = np.array([df.loc[(df.Hour == last_hour) & (df.Day == last_day), 'Passengers'].mean()])
+    prev_2hour_pass = np.array([df.loc[(df.Hour == last_2hour) & (df.Day == last_2day), 'Passengers'].mean()])
 
 
     hol_array = np.array([int(hol)])
